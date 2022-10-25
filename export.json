@@ -1,0 +1,3474 @@
+{
+  "startingSeason": 1985,
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 1,
+      "region": "Atlanta",
+      "name": "Hawks",
+      "abbrev": "ATL",
+      "pop": 1.9,
+      "stadiumCapacity": 16522,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029984471501516860/atlanta1972.png",
+      "jersey": "jersey4",
+      "colors": [
+        "#C9102E",
+        "#FFCD00",
+        "#C9102E"
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Boston",
+      "name": "Celtics",
+      "abbrev": "BOS",
+      "pop": 3.3,
+      "stadiumCapacity": 14890,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029985094842195978/boston1974.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#007A33",
+        "#FFFFFF",
+        "#007A33"
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 1,
+      "region": "Chicago",
+      "name": "Bulls",
+      "abbrev": "CHI",
+      "pop": 7.2,
+      "stadiumCapacity": 17374,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029987642114330624/chicago1966.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#BA0B2F",
+        "#BA0B2F",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 1,
+      "region": "Cleveland",
+      "name": "Cavaliers",
+      "abbrev": "CLE",
+      "pop": 1.7,
+      "stadiumCapacity": 20900,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029985949511319562/cleveland1983.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#FFFFFF",
+        "#E13C32",
+        "#E13C32"
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 1,
+      "did": 2,
+      "region": "Dallas",
+      "name": "Mavericks",
+      "abbrev": "DAL",
+      "pop": 2.8,
+      "stadiumCapacity": 17007,
+      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031295663658512394/dallas1980.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#00853D",
+        "#FFFFFF",
+        "#082C63"
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 2,
+      "region": "Denver",
+      "name": "Nuggets",
+      "abbrev": "DEN",
+      "pop": 1.4,
+      "stadiumCapacity": 17251,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029990294810271824/denver1981.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#0032A1",
+        "#FFE900",
+        "#FFE900"
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 0,
+      "did": 1,
+      "region": "Detroit",
+      "name": "Pistons",
+      "abbrev": "DET",
+      "pop": 3.7,
+      "stadiumCapacity": 33000,
+      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1030221404437749851/detroit1979.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#D50032"
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 3,
+      "region": "Golden State",
+      "name": "Warriors",
+      "abbrev": "GSW",
+      "pop": 2.8,
+      "stadiumCapacity": 13295,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030173679809740871/goldenstate1975.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#002F6C",
+        "#FFC62D",
+        "#FFC62D"
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 2,
+      "region": "Houston",
+      "name": "Rockets",
+      "abbrev": "HOU",
+      "pop": 2.6,
+      "stadiumCapacity": 16016,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030174252818772058/houston1972.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#AF0B2D",
+        "#FFFFFF",
+        "#FFC72C"
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 0,
+      "did": 1,
+      "region": "Indiana",
+      "name": "Pacers",
+      "abbrev": "IND",
+      "pop": 0.877,
+      "stadiumCapacity": 16912,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030174954647457882/indiana1977.png",
+      "jersey": "jersey4",
+      "colors": [
+        "#0032A1",
+        "#FFFFFF",
+        "#FEDE00"
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 2,
+      "region": "Kansas City",
+      "name": "Kings",
+      "abbrev": "KCK",
+      "pop": 1.1,
+      "stadiumCapacity": 16700,
+      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031306813762719836/kansascity1975.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#002F6C"
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 3,
+      "region": "Los Angeles",
+      "name": "Clippers",
+      "abbrev": "LAC",
+      "pop": 10.1,
+      "stadiumCapacity": 15371,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030179020677075036/clippers1985.png",
+      "jersey": "jersey4",
+      "colors": [
+        "#002F6C",
+        "#FFFFFF",
+        "#D40031"
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 1,
+      "did": 3,
+      "region": "Los Angeles",
+      "name": "Lakers",
+      "abbrev": "LAL",
+      "pop": 10.1,
+      "stadiumCapacity": 17505,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030179369760604176/lakers1976.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#FDB927",
+        "#552583",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 1,
+      "region": "Milwaukee",
+      "name": "Bucks",
+      "abbrev": "MIL",
+      "pop": 1.2,
+      "stadiumCapacity": 11052,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030180642698309763/milwaukee1968.png",
+      "jersey": "jersey4",
+      "colors": [
+        "#2C5333",
+        "#FFFFFF",
+        "#6CBF48"
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 0,
+      "did": 0,
+      "region": "New Jersey",
+      "name": "Nets",
+      "abbrev": "NJN",
+      "pop": 0.2,
+      "stadiumCapacity": 20149,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030187298375094377/njn1979.png",
+      "jersey": "jersey",
+      "colors": [
+        "#FFFFFF",
+        "#002A60",
+        "#E4002B"
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Knicks",
+      "abbrev": "NYK",
+      "pop": 15.8,
+      "stadiumCapacity": 19591,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030188140796841994/nyk1984.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#006BB6",
+        "#FE5000",
+        "#FE5000"
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 0,
+      "region": "Philadelphia",
+      "name": "76ers",
+      "abbrev": "PHI",
+      "pop": 4.6,
+      "stadiumCapacity": 17921,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030190377342345377/philadelphia1978.png",
+      "jersey": "jersey4",
+      "colors": [
+        "#D60132",
+        "#FFFFFF",
+        "#002F6C"
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 1,
+      "did": 3,
+      "region": "Phoenix",
+      "name": "Suns",
+      "abbrev": "PHX",
+      "pop": 1.6,
+      "stadiumCapacity": 14660,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196084020088863/phoenix1968.png",
+      "jersey": "jersey3",
+      "colors": [
+        "#5F249F",
+        "#5F249F",
+        "#E55F20"
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 1,
+      "did": 3,
+      "region": "Portland",
+      "name": "Trail Blazers",
+      "abbrev": "POR",
+      "pop": 1.1,
+      "stadiumCapacity": 12666,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030191661998940240/portland1970.png",
+      "jersey": "jersey3",
+      "colors": [
+        "#061922",
+        "#061922",
+        "#C8102E"
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 1,
+      "did": 2,
+      "region": "San Antonio",
+      "name": "Spurs",
+      "abbrev": "SAS",
+      "pop": 1.0,
+      "stadiumCapacity": 15800,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196123119407115/sanantonio1976.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#161618",
+        "#161618",
+        "#C4CED4"
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 1,
+      "did": 3,
+      "region": "Seattle",
+      "name": "SuperSonics",
+      "abbrev": "SEA",
+      "pop": 1.9,
+      "stadiumCapacity": 14230,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196733537431562/seattle1975.png",
+      "jersey": "jersey3",
+      "colors": [
+        "#046A3C",
+        "#FFFFFF",
+        "#FCBE14"
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 2,
+      "region": "Utah",
+      "name": "Jazz",
+      "abbrev": "UTA",
+      "pop": 1.1,
+      "stadiumCapacity": 12690,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196975875919922/utah1979.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#582C84",
+        "#066938",
+        "#FBC827"
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 0,
+      "did": 0,
+      "region": "Washington",
+      "name": "Bullets",
+      "abbrev": "WAS",
+      "pop": 4.4,
+      "stadiumCapacity": 20356,
+      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030201896763400262/washington1974.png",
+      "jersey": "jersey2",
+      "colors": [
+        "#FFFFFF",
+        "#002F6C",
+        "#002F6C"
+      ]
+    }
+  ],
+  "gameAttributes": [
+    {
+      "key": "luxuryPayroll",
+      "value": 25000
+    },
+    {
+      "key": "luxuryTax",
+      "value": 1.5
+    },
+    {
+      "key": "maxContract",
+      "value": 7000
+    },
+    {
+      "key": "minContract",
+      "value": 300
+    },
+    {
+      "key": "minPayroll",
+      "value": 15000
+    },
+    {
+      "key": "salaryCap",
+      "value": 23000
+    },
+    {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "Eastern Conference"
+        },
+        {
+          "cid": 1,
+          "name": "Western Conference"
+        }
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": "Atlantic Division"
+        },
+        {
+          "did": 1,
+          "cid": 0,
+          "name": "Central Division"
+        },
+        {
+          "did": 2,
+          "cid": 1,
+          "name": "Midwest Division"
+        },
+        {
+          "did": 3,
+          "cid": 1,
+          "name": "Pacific Division"
+        }
+      ]
+    },
+    {
+      "key": "playIn",
+      "value": false
+    },
+    {
+      "key": "draftType",
+      "value": "randomLotteryFirst3"
+    },
+    {
+      "key": "elamASG",
+      "value": false
+    },
+    {
+      "key": "orbFactor",
+      "value": 1.031125
+    },
+    {
+      "key": "stealFactor",
+      "value": 1.09
+    },
+    {
+      "key": "turnoverFactor",
+      "value": 1.02
+    },
+    {
+      "key": "twoPointAccuracyFactor",
+      "value": 1.009
+    },
+    {
+      "key": "threePointTendencyFactor",
+      "value": 0.577
+    },
+    {
+      "key": "pace",
+      "value": 92.7
+    },
+    {
+      "numGamesPlayoffSeries": [
+        5,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "key": "maxRosterSize",
+      "value": 15
+    }
+  ],
+  "scheduledEvents": [
+    {
+      "type": "expansionDraft",
+      "season": 1988,
+      "phase": 4,
+      "id": 0,
+      "info": {
+        "numProtectedPlayers": 8,
+        "teams": [
+          {
+            "tid": 23,
+            "cid": 0,
+            "did": 0,
+            "region": "Charlotte",
+            "name": "Hornets",
+            "abbrev": "CHA",
+            "pop": 0.4,
+            "stadiumCapacity": 24042,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588049458999386/charlotte1988.png",
+            "jersey": "jersey4",
+            "colors": [
+              "#00778B",
+              "#FFFFFF",
+              "#280071"
+            ]
+          },
+          {
+            "tid": 24,
+            "cid": 1,
+            "did": 2,
+            "region": "Miami",
+            "name": "Heat",
+            "abbrev": "MIA",
+            "pop": 3.6,
+            "stadiumCapacity": 15008,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588074834542612/miami1988.png",
+            "jersey": "jersey2",
+            "colors": [
+              "#161618",
+              "#FFFFFF",
+              "#BA0C2F"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1989,
+      "phase": 4,
+      "id": 1,
+      "info": {
+        "numProtectedPlayers": 8,
+        "teams": [
+          {
+            "tid": 25,
+            "cid": 0,
+            "did": 1,
+            "region": "Orlando",
+            "name": "Magic",
+            "abbrev": "ORL",
+            "pop": 0.859,
+            "stadiumCapacity": 15077,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030590707997622312/orlando1989.png",
+            "jersey": "jersey5",
+            "colors": [
+              "#161618",
+              "#1950AE",
+              "#FFFFFF"
+            ]
+          },
+          {
+            "tid": 26,
+            "cid": 1,
+            "did": 2,
+            "region": "Minnesota",
+            "name": "Timberwolves",
+            "abbrev": "MIN",
+            "pop": 2.0,
+            "stadiumCapacity": 50000,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588823836573756/minnesota1989.png",
+            "jersey": "jersey2",
+            "colors": [
+              "#0032A0",
+              "#009A44",
+              "#FFFFFF"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1995,
+      "phase": 4,
+      "id": 2,
+      "info": {
+        "numProtectedPlayers": 8,
+        "teams": [
+          {
+            "tid": 27,
+            "cid": 0,
+            "did": 1,
+            "region": "Toronto",
+            "name": "Raptors",
+            "abbrev": "TOR",
+            "pop": 4.4,
+            "stadiumCapacity": 22911,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031345690187681842/toronto1995.png",
+            "jersey": "jersey2",
+            "colors": [
+              "#753BBD",
+              "#BA0C2F",
+              "#161618"
+            ]
+          },
+          {
+            "tid": 28,
+            "cid": 1,
+            "did": 2,
+            "region": "Vancouver",
+            "name": "Grizzlies",
+            "abbrev": "VAN",
+            "pop": 1.9,
+            "stadiumCapacity": 19193,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031345724375445598/vancouver1995.png",
+            "jersey": "jersey2",
+            "colors": [
+              "#00B2A9",
+              "#161618",
+              "#C8102E"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2004,
+      "phase": 4,
+      "id": 3,
+      "info": {
+        "numProtectedPlayers": 8,
+        "teams": [
+          {
+            "tid": 29,
+            "cid": 0,
+            "did": 2,
+            "region": "Charlotte",
+            "name": "Bobcats",
+            "abbrev": "CHA",
+            "pop": 1,
+            "stadiumCapacity": 24042,
+            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032329881373130793/bobcats2004.png",
+            "jersey": "jersey2",
+            "colors": [
+              "#F9423A",
+              "#1B365D",
+              "#BCC6CC"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 4,
+      "info": {
+        "region": "Sacramento",
+        "name": "Kings",
+        "abbrev": "SAC",
+        "pop": 0.970,
+        "tid": 10,
+        "stadiumCapacity": 10333,
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031307812954972190/sacramento1985.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#418FDE",
+          "#FFFFFF",
+          "#D50032"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 5,
+      "info": {
+        "tid": 22,
+        "srID": "WAS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588015300591646/washington1987.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#D50032",
+          "#003DA5"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 6,
+      "info": {
+        "tid": 15,
+        "srID": "NYK",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031342986786787468/newyork1989.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 7,
+      "info": {
+        "tid": 19,
+        "srID": "SAS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343041824428142/sanantonio1989.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 8,
+      "info": {
+        "tid": 9,
+        "srID": "IND",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343459954589706/indiana1990.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#041E42",
+          "#FFFFFF",
+          "#FFCD00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 9,
+      "info": {
+        "tid": 14,
+        "srID": "NJN",
+        "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031690017728372836/newjersey1990.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#003DA5",
+          "#E4002B"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 10,
+      "info": {
+        "tid": 18,
+        "srID": "POR",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343634093723648/portland1990.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 11,
+      "info": {
+        "tid": 15,
+        "srID": "NYK",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343779095003196/newyork1992.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 12,
+      "info": {
+        "tid": 17,
+        "srID": "PHX",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343812594901084/phoenix1992.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 13,
+      "info": {
+        "tid": 4,
+        "srID": "DAL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344674415321119/dallas1993.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#002F46",
+          "#FFFFFF",
+          "#00843D"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 14,
+      "info": {
+        "tid": 5,
+        "srID": "DEN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344715292999750/denver1993.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#C79969",
+          "#9D2235"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 15,
+      "info": {
+        "tid": 13,
+        "srID": "MIL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344746683174972/milwaukee1993.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#702F8A",
+          "#FFFFFF",
+          "#2C5234"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 16,
+      "info": {
+        "tid": 3,
+        "srID": "CLE",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344784314486855/cleveland1994.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#161618",
+          "#5C88DA",
+          "#5C88DA"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 17,
+      "info": {
+        "tid": 10,
+        "srID": "SAC",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344816501555331/sacramento1994.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#161618",
+          "#753BBD"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 18,
+      "info": {
+        "tid": 0,
+        "srID": "ATL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344857932890112/atlanta1995.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#161618",
+          "#C8102E",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 19,
+      "info": {
+        "tid": 8,
+        "srID": "HOU",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344905689251871/houston1995.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#041E42",
+          "#FFFFFF",
+          "#BA0C2F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 20,
+      "info": {
+        "tid": 15,
+        "srID": "NYK",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344942083219618/newyork1995.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 21,
+      "info": {
+        "tid": 20,
+        "srID": "SEA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344967576195102/seattle1995.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#173F35",
+          "#FFA400",
+          "#9E2B2F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 22,
+      "info": {
+        "tid": 1,
+        "srID": "BOS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346496047693834/boston1996.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 23,
+      "info": {
+        "tid": 6,
+        "srID": "DET",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346551999701112/detroit1996.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#FFA400",
+          "#006271"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 24,
+      "info": {
+        "tid": 26,
+        "srID": "MIN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346581368221766/minnesota1996.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#236192",
+          "#00843D",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 25,
+      "info": {
+        "tid": 21,
+        "srID": "UTA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346609260351530/utah1996.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#753BBD",
+          "#C27069",
+          "#007483"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 26,
+      "info": {
+        "tid": 7,
+        "srID": "GSW",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346704227762216/goldenstate1997.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#041E42",
+          "#BE3A44",
+          "#FFA400"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 27,
+      "info": {
+        "tid": 14,
+        "srID": "NJN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347408904388608/newjersey1997.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#041E42",
+          "#CDD6DB",
+          "#BA0C2F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 28,
+      "info": {
+        "tid": 16,
+        "srID": "PHI",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347524843347988/philadelphia1997.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#161618",
+          "#C79969",
+          "#D50032"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 29,
+      "info": {
+        "tid": 22,
+        "region": "Washington",
+        "name": "Wizards",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347555088486440/washington1997.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#236192",
+          "#BA7C5D",
+          "#BA7C5D"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 30,
+      "info": {
+        "tid": 24,
+        "srID": "MIA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347810337046669/miami1999.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#9D2235",
+          "#9D2235"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 31,
+      "info": {
+        "tid": 17,
+        "srID": "PHX",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126520505942086/phoenix2000.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#CB6015",
+          "#582C83"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 32,
+      "info": {
+        "tid": 25,
+        "srID": "ORL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126597635002389/orlando2000.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 33,
+      "info": {
+        "tid": 4,
+        "srID": "DAL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126710168170546/dallas2001.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#0057B7",
+          "#0057B7"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 34,
+      "info": {
+        "tid": 28,
+        "region": "Memphis",
+        "name": "Grizzlies",
+        "abbrev": "MEM",
+        "pop": 0.9,
+        "stadiumCapacity": 19405,
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126818481877074/memphis2001.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 35,
+      "info": {
+        "tid": 12,
+        "srID": "LAL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032127353003974677/lakers2001.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFC72C",
+          "#702FBA",
+          "#702FBA"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 36,
+      "info": {
+        "tid": 6,
+        "srID": "DET",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032128998639149177/detroit2001.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#003DA5",
+          "#003DA5"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 37,
+      "info": {
+        "tid": 20,
+        "srID": "SEA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032324869376966676/seattle2001.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#173F35",
+          "#FFA400",
+          "#FFA400"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 38,
+      "info": {
+        "tid": 23,
+        "region": "New Orleans",
+        "name": "Hornets",
+        "abbrev": "NOH",
+        "pop": 1.0,
+        "stadiumCapacity": 17200,
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032326345805549620/neworleans2002.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#00778B",
+          "#FFC72C",
+          "#280071"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 39,
+      "info": {
+        "tid": 18,
+        "srID": "POR",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032327498639351878/portland2002.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#C8102E",
+          "#C8102E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 40,
+      "info": {
+        "tid": 19,
+        "srID": "SAS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032327688096059462/sanantonio2002.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 41,
+      "info": {
+        "tid": 3,
+        "srID": "CLE",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328315962404884/cleveland2003.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#9D2235",
+          "#C89A6A",
+          "#041E42"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 42,
+      "info": {
+        "tid": 5,
+        "srID": "DEN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328361353154630/denver2003.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#418FDE",
+          "#FFC72C",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 43,
+      "info": {
+        "tid": 8,
+        "srID": "HOU",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328420052439111/houston2003.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#BA0C2F",
+          "#CDD6DB",
+          "#CDD6DB"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 44,
+      "info": {
+        "tid": 18,
+        "srID": "POR",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328541230071839/portland2003.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 45,
+      "info": {
+        "tid": 28,
+        "srID": "MEM",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032330679020687360/memphis2004.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#0C2340",
+          "#0C2340"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 46,
+      "info": {
+        "tid": 21,
+        "srID": "UTA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032330741880737812/utah2004.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0A2F50",
+          "#4B9FE2",
+          "#4B9FE2"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 47,
+      "info": {
+        "tid": 6,
+        "srID": "DET",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032331204260794458/detroit2005.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#003DA5",
+          "#003DA5"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 48,
+      "info": {
+        "tid": 9,
+        "srID": "IND",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032341353314660382/indiana2005.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#041E42",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 49,
+      "info": {
+        "tid": 13,
+        "srID": "MIL",
+        "imgURL": "https://media.discordapp.net/attachments/1030555652298379345/1032341953947369492/milwaukee2006.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#2C5234",
+          "#FFFFFF",
+          "#A6192E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 50,
+      "info": {
+        "tid": 0,
+        "srID": "ATL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032342936291123302/atlanta2007.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0C2340",
+          "#C8102E",
+          "#C8102E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 51,
+      "info": {
+        "tid": 29,
+        "srID": "CHA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343804642086963/charlotte2007.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 52,
+      "info": {
+        "tid": 22,
+        "srID": "WAS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343854038401124/washington2007.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 53,
+      "info": {
+        "tid": 26,
+        "srID": "MIN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343963962724424/minnesota2008.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 54,
+      "info": {
+        "tid": 23,
+        "srID": "NOH",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032344523906486372/neworleans2008.png",
+        "jersey": "jersey5",
+        "colors": [
+          "#0082BA",
+          "#FFC72C",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 55,
+      "info": {
+        "tid": 20,
+        "region": "Oklahoma City",
+        "name": "Thunder",
+        "abbrev": "OKC",
+        "pop": 0.840,
+        "stadiumCapacity": 19136,
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032344577622941777/oklahomacity2008.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0072CE",
+          "#EE2737",
+          "#FFB81C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 56,
+      "info": {
+        "tid": 27,
+        "srID": "TOR",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032346345366892644/toronto2008.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 57,
+      "info": {
+        "tid": 16,
+        "srID": "PHI",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032346407056724048/philadelphia2009.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#FFFFFF",
+          "#003DA5",
+          "#D50032"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 58,
+      "info": {
+        "tid": 3,
+        "srID": "CLE",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032354622507077723/cleveland2010.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#CF263D",
+          "#FFB81C",
+          "#FFB81C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 59,
+      "info": {
+        "tid": 11,
+        "srID": "LAC",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032354679541219338/clippers2010.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#FFFFFF",
+          "#D50032",
+          "#003DA5"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 60,
+      "info": {
+        "tid": 7,
+        "srID": "GSW",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355363724476527/goldenstate2010.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#003DA5",
+          "#FFC72C",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 61,
+      "info": {
+        "tid": 25,
+        "srID": "ORL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355405529104465/orlando2010.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 62,
+      "info": {
+        "tid": 25,
+        "srID": "UTA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355750544150598/utah2010.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#FFB321",
+          "#0A2F50"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 63,
+      "info": {
+        "tid": 22,
+        "srID": "WAS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356091570425946/washington2011.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#0C2340",
+          "#C8102E",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 64,
+      "info": {
+        "tid": 15,
+        "srID": "NYK",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356199460503613/newyork2011.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 65,
+      "info": {
+        "tid": 14,
+        "region": "Brooklyn",
+        "name": "Nets",
+        "abbrev": "BRK",
+        "pop": 18.5,
+        "stadiumCapacity": 17732,
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356327617466468/brooklyn2012.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#161618",
+          "#FFFFFF",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 66,
+      "info": {
+        "tid": 29,
+        "srID": "CHA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357175084978237/bobcats2012.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 67,
+      "info": {
+        "tid": 23,
+        "region": "New Orleans",
+        "name": "Pelicans",
+        "abbrev": "NOP",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357295708962949/neworleans2013.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0C2340",
+          "#C89A6A",
+          "#C89A6A"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 68,
+      "info": {
+        "tid": 17,
+        "srID": "PHX",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357345101086761/phoenix2013.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#211747",
+          "#CB6015",
+          "#CB6015"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 69,
+      "info": {
+        "tid": 29,
+        "region": "Charlotte",
+        "name": "Hornets",
+        "abbrev": "CHA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357815970451487/charlotte2014.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#00778B",
+          "#00778B"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 70,
+      "info": {
+        "tid": 0,
+        "srID": "ATL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358079490175097/atlanta2015.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#C8102E",
+          "#C8102E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 71,
+      "info": {
+        "tid": 11,
+        "srID": "LAC",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358164651315330/clippers2015.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 72,
+      "info": {
+        "tid": 13,
+        "srID": "MIL",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358243198042133/milwaukee2015.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#2C5234",
+          "#DDCBA4",
+          "#DDCBA4"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 73,
+      "info": {
+        "tid": 16,
+        "srID": "PHI",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358299011649656/philadelphia2015.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#003DA5",
+          "#D50032",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 74,
+      "info": {
+        "tid": 27,
+        "srID": "TOR",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358912856440893/toronto2015.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#BA0C2F",
+          "#CDD6DB",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 75,
+      "info": {
+        "tid": 21,
+        "srID": "UTA",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359913051140106/utah2016.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#0A2F50",
+          "#0A2F50"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 76,
+      "info": {
+        "tid": 10,
+        "srID": "SAC",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359225977995295/sacramento2016.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#FFFFFF",
+          "#582C83",
+          "#5B6770"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 77,
+      "info": {
+        "tid": 3,
+        "srID": "CLE",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359271020638318/cleveland2017.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#6F263D",
+          "#6F263D"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 78,
+      "info": {
+        "tid": 6,
+        "srID": "DET",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032805176358207539/detroit2017.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 79,
+      "info": {
+        "tid": 9,
+        "srID": "IND",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359414511980604/indiana2017.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#041E42",
+          "#FFC72C",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 80,
+      "info": {
+        "tid": 26,
+        "srID": "MIN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359445591760926/minnesota2017.png",
+        "jersey": "jersey3",
+        "colors": [
+          "#236192",
+          "#0C2340",
+          "#236192"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 81,
+      "info": {
+        "tid": 18,
+        "srID": "POR",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359662080774285/portland2017.png",
+        "jersey": "jersey4",
+        "colors": [
+          "#161618",
+          "#CDD6DB",
+          "#C8102E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 82,
+      "info": {
+        "tid": 19,
+        "srID": "SAS",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359749833990234/sanantonio2017.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 83,
+      "info": {
+        "tid": 5,
+        "srID": "DEN",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360007607521321/denver2018.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0C2340",
+          "#FFFFFF",
+          "#862633"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 84,
+      "info": {
+        "tid": 28,
+        "srID": "MEM",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360204668510278/memphis2018.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0C2340",
+          "#7D9CC0",
+          "#7D9CC0"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 85,
+      "info": {
+        "tid": 7,
+        "srID": "GSW",
+        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360305415704647/goldenstate2019.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#1B459B",
+          "#FFC72C",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 86,
+      "info": {
+        "tid": 3,
+        "srID": "CLE",
+        "jersey": "jersey4",
+        "colors": [
+          "#003DA5",
+          "#FFFFFF",
+          "#E03C31"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 87,
+      "info": {
+        "tid": 7,
+        "srID": "GSW",
+        "jersey": "jersey2",
+        "colors": [
+          "#002F6C",
+          "#FFFFFF",
+          "#FFCD00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 88,
+      "info": {
+        "tid": 11,
+        "srID": "LAC",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#D50032",
+          "#003DA5"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 89,
+      "info": {
+        "tid": 10,
+        "srID": "SAC",
+        "jersey": "jersey4",
+        "colors": [
+          "#002F6C",
+          "#FFFFFF",
+          "#002F6C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 90,
+      "info": {
+        "tid": 0,
+        "srID": "ATL",
+        "jersey": "jersey4",
+        "colors": [
+          "#C8102E",
+          "#FFFFFF",
+          "#FFC72C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 91,
+      "info": {
+        "tid": 16,
+        "srID": "PHI",
+        "jersey": "jersey4",
+        "colors": [
+          "#D50032",
+          "#FFFFFF",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 92,
+      "info": {
+        "tid": 23,
+        "srID": "CHA",
+        "jersey": "jersey4",
+        "colors": [
+          "#00778B",
+          "#280071",
+          "#0032A0"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 93,
+      "info": {
+        "tid": 9,
+        "srID": "IND",
+        "jersey": "jersey5",
+        "colors": [
+          "#041042",
+          "#FFCD00",
+          "#FFCD00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 93,
+      "info": {
+        "tid": 25,
+        "srID": "ORL",
+        "jersey": "jersey2",
+        "colors": [
+          "#0057B7",
+          "#CDD6DB",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 95,
+      "info": {
+        "tid": 27,
+        "srID": "TOR",
+        "jersey": "jersey2",
+        "colors": [
+          "#753BBD",
+          "#BA0C2F",
+          "#BA0C2F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 96,
+      "info": {
+        "tid": 11,
+        "srID": "LAC",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#003DA5",
+          "#003DA5"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 97,
+      "info": {
+        "tid": 10,
+        "srID": "SAC",
+        "jersey": "jersey2",
+        "colors": [
+          "#753BBD",
+          "#CDD6DB",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 98,
+      "info": {
+        "tid": 27,
+        "srID": "TOR",
+        "jersey": "jersey2",
+        "colors": [
+          "#BA0C2F",
+          "#161618",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 99,
+      "info": {
+        "tid": 25,
+        "srID": "ORL",
+        "jersey": "jersey5",
+        "colors": [
+          "#0057B7",
+          "#161618",
+          "#CDD6DB"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 100,
+      "info": {
+        "tid": 10,
+        "srID": "SAC",
+        "jersey": "jersey2",
+        "colors": [
+          "#753BBD",
+          "#161618",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 101,
+      "info": {
+        "tid": 29,
+        "srID": "CHA",
+        "jersey": "jersey5",
+        "colors": [
+          "#1B365D",
+          "#F9423A",
+          "#CDD6DB"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 102,
+      "info": {
+        "tid": 29,
+        "srID": "CHA",
+        "jersey": "jersey2",
+        "colors": [
+          "#0C2340",
+          "#E35205",
+          "#E35205"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 103,
+      "info": {
+        "tid": 11,
+        "srID": "LAC",
+        "jersey": "jersey4",
+        "colors": [
+          "#003DA5",
+          "#D50032",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 104,
+      "info": {
+        "tid": 17,
+        "srID": "PHX",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#CB6015",
+          "#211747"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 105,
+      "info": {
+        "tid": 12,
+        "srID": "LAL",
+        "jersey": "jersey4",
+        "colors": [
+          "#FFC72C",
+          "#FFFFFF",
+          "#582C83"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 106,
+      "info": {
+        "tid": 25,
+        "srID": "ORL",
+        "jersey": "jersey5",
+        "colors": [
+          "#161618",
+          "#0057B7",
+          "#0057B7"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 107,
+      "info": {
+        "srID": "ATL",
+        "tid": 0,
+        "stadiumCapacity": 9191
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 108,
+      "info": {
+        "srID": "ATL",
+        "tid": 0,
+        "stadiumCapacity": 20233
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 109,
+      "info": {
+        "srID": "ATL",
+        "tid": 0,
+        "stadiumCapacity": 18729
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 110,
+      "info": {
+        "srID": "ATL",
+        "tid": 0,
+        "stadiumCapacity": 16600
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 111,
+      "info": {
+        "srID": "BOS",
+        "tid": 1,
+        "stadiumCapacity": 19156
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 112,
+      "info": {
+        "srID": "CHI",
+        "tid": 2,
+        "stadiumCapacity": 21711
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 113,
+      "info": {
+        "srID": "CHI",
+        "tid": 2,
+        "stadiumCapacity": 20917
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 114,
+      "info": {
+        "srID": "CLE",
+        "tid": 3,
+        "stadiumCapacity": 20273
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 115,
+      "info": {
+        "srID": "CLE",
+        "tid": 3,
+        "stadiumCapacity": 19432
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 116,
+      "info": {
+        "srID": "CHA",
+        "tid": 3,
+        "stadiumCapacity": 19077
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 117,
+      "info": {
+        "srID": "DAL",
+        "tid": 4,
+        "stadiumCapacity": 17502
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 118,
+      "info": {
+        "srID": "DAL",
+        "tid": 4,
+        "stadiumCapacity": 19200
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 119,
+      "info": {
+        "srID": "DEN",
+        "tid": 5,
+        "stadiumCapacity": 19099
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 120,
+      "info": {
+        "srID": "DEN",
+        "tid": 5,
+        "stadiumCapacity": 19520
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 121,
+      "info": {
+        "srID": "DET",
+        "tid": 6,
+        "stadiumCapacity": 22076
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 122,
+      "info": {
+        "srID": "DET",
+        "tid": 6,
+        "stadiumCapacity": 19515
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 123,
+      "info": {
+        "srID": "GSW",
+        "tid": 7,
+        "stadiumCapacity": 18543
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 124,
+      "info": {
+        "srID": "GSW",
+        "tid": 7,
+        "stadiumCapacity": 19596
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 125,
+      "info": {
+        "srID": "GSW",
+        "tid": 7,
+        "stadiumCapacity": 18064
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 126,
+      "info": {
+        "srID": "HOU",
+        "tid": 8,
+        "stadiumCapacity": 16611
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 127,
+      "info": {
+        "srID": "HOU",
+        "tid": 8,
+        "stadiumCapacity": 17982
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 128,
+      "info": {
+        "srID": "HOU",
+        "tid": 8,
+        "stadiumCapacity": 18430
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 129,
+      "info": {
+        "srID": "HOU",
+        "tid": 8,
+        "stadiumCapacity": 18055
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 130,
+      "info": {
+        "srID": "IND",
+        "tid": 9,
+        "stadiumCapacity": 16530
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 131,
+      "info": {
+        "srID": "IND",
+        "tid": 9,
+        "stadiumCapacity": 18345
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 132,
+      "info": {
+        "srID": "IND",
+        "tid": 9,
+        "stadiumCapacity": 17923
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 133,
+      "info": {
+        "srID": "LAC",
+        "tid": 11,
+        "stadiumCapacity": 16005
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 134,
+      "info": {
+        "srID": "LAC",
+        "tid": 11,
+        "stadiumCapacity": 19079
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 135,
+      "info": {
+        "srID": "LAL",
+        "tid": 12,
+        "stadiumCapacity": 19079
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 136,
+      "info": {
+        "srID": "MEM",
+        "tid": 28,
+        "stadiumCapacity": 17794
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 137,
+      "info": {
+        "srID": "MIL",
+        "tid": 13,
+        "stadiumCapacity": 18633
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 138,
+      "info": {
+        "srID": "MIL",
+        "tid": 13,
+        "stadiumCapacity": 17385
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 139,
+      "info": {
+        "srID": "MIA",
+        "tid": 24,
+        "stadiumCapacity": 15200
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 140,
+      "info": {
+        "srID": "MIA",
+        "tid": 24,
+        "stadiumCapacity": 19600
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 141,
+      "info": {
+        "srID": "NJN",
+        "tid": 14,
+        "stadiumCapacity": 20050
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 142,
+      "info": {
+        "srID": "NJN",
+        "tid": 14,
+        "stadiumCapacity": 18711
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 143,
+      "info": {
+        "srID": "NOP",
+        "tid": 23,
+        "stadiumCapacity": 16867
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 144,
+      "info": {
+        "srID": "NYK",
+        "tid": 15,
+        "stadiumCapacity": 19763
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 145,
+      "info": {
+        "srID": "NYK",
+        "tid": 15,
+        "stadiumCapacity": 19812
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 146,
+      "info": {
+        "srID": "OKC",
+        "tid": 20,
+        "stadiumCapacity": 18203
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 147,
+      "info": {
+        "srID": "ORL",
+        "tid": 25,
+        "stadiumCapacity": 17248
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 148,
+      "info": {
+        "srID": "ORL",
+        "tid": 25,
+        "stadiumCapacity": 18846
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 149,
+      "info": {
+        "srID": "PHI",
+        "tid": 16,
+        "stadiumCapacity": 18168
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 150,
+      "info": {
+        "srID": "PHI",
+        "tid": 16,
+        "stadiumCapacity": 20338
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 151,
+      "info": {
+        "srID": "PHI",
+        "tid": 16,
+        "stadiumCapacity": 20478
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 152,
+      "info": {
+        "srID": "PHX",
+        "tid": 17,
+        "stadiumCapacity": 17071
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 153,
+      "info": {
+        "srID": "POR",
+        "tid": 18,
+        "stadiumCapacity": 12888
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 154,
+      "info": {
+        "srID": "POR",
+        "tid": 18,
+        "stadiumCapacity": 21401
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 155,
+      "info": {
+        "srID": "POR",
+        "tid": 18,
+        "stadiumCapacity": 19980
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 156,
+      "info": {
+        "srID": "POR",
+        "tid": 18,
+        "stadiumCapacity": 19393
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 157,
+      "info": {
+        "srID": "SAC",
+        "tid": 10,
+        "stadiumCapacity": 17317
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 158,
+      "info": {
+        "srID": "SAC",
+        "tid": 10,
+        "stadiumCapacity": 17608
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 159,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "stadiumCapacity": 16057
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 160,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "stadiumCapacity": 20662
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 161,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "stadiumCapacity": 19217
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 162,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "stadiumCapacity": 18797
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 163,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "stadiumCapacity": 18581
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 164,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "stadiumCapacity": 18418
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 165,
+      "info": {
+        "srID": "TOR",
+        "tid": 27,
+        "stadiumCapacity": 19800
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 166,
+      "info": {
+        "srID": "UTA",
+        "tid": 21,
+        "stadiumCapacity": 18306
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 167,
+      "info": {
+        "srID": "WAS",
+        "tid": 22,
+        "stadiumCapacity": 18756
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 168,
+      "info": {
+        "srID": "WAS",
+        "tid": 22,
+        "stadiumCapacity": 20356
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 169,
+      "info": {
+        "srID": "SAC",
+        "tid": 10,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 170,
+      "info": {
+        "srID": "CHA",
+        "tid": 23,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 171,
+      "info": {
+        "srID": "MIA",
+        "tid": 24,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 172,
+      "info": {
+        "srID": "CHA",
+        "tid": 23,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 173,
+      "info": {
+        "srID": "ORL",
+        "tid": 24,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 174,
+      "info": {
+        "srID": "ORL",
+        "tid": 24,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 175,
+      "info": {
+        "srID": "ATL",
+        "tid": 0,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 176,
+      "info": {
+        "srID": "BOS",
+        "tid": 1,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 177,
+      "info": {
+        "srID": "NOH",
+        "tid": 23,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 178,
+      "info": {
+        "srID": "CHI",
+        "tid": 2,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 179,
+      "info": {
+        "srID": "CLE",
+        "tid": 3,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 180,
+      "info": {
+        "srID": "DAL",
+        "tid": 4,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 181,
+      "info": {
+        "srID": "DEN",
+        "tid": 5,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 182,
+      "info": {
+        "srID": "DET",
+        "tid": 6,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 183,
+      "info": {
+        "srID": "GSW",
+        "tid": 7,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 184,
+      "info": {
+        "srID": "HOU",
+        "tid": 8,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 185,
+      "info": {
+        "srID": "IND",
+        "tid": 9,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 186,
+      "info": {
+        "srID": "LAC",
+        "tid": 11,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 187,
+      "info": {
+        "srID": "LAL",
+        "tid": 12,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 188,
+      "info": {
+        "srID": "MIA",
+        "tid": 24,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 189,
+      "info": {
+        "srID": "MIL",
+        "tid": 13,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 190,
+      "info": {
+        "srID": "MIN",
+        "tid": 26,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 191,
+      "info": {
+        "srID": "NJN",
+        "tid": 14,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 192,
+      "info": {
+        "srID": "NYK",
+        "tid": 15,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 193,
+      "info": {
+        "srID": "ORL",
+        "tid": 25,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 194,
+      "info": {
+        "srID": "PHI",
+        "tid": 16,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 195,
+      "info": {
+        "srID": "PHX",
+        "tid": 17,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 196,
+      "info": {
+        "srID": "POR",
+        "tid": 18,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 197,
+      "info": {
+        "srID": "SAC",
+        "tid": 10,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 198,
+      "info": {
+        "srID": "SAS",
+        "tid": 19,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 199,
+      "info": {
+        "srID": "SEA",
+        "tid": 20,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 200,
+      "info": {
+        "srID": "TOR",
+        "tid": 27,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 201,
+      "info": {
+        "srID": "UTA",
+        "tid": 21,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 202,
+      "info": {
+        "srID": "WAS",
+        "tid": 22,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 203,
+      "info": {
+        "srID": "MEM",
+        "tid": 28,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 204,
+      "info": {
+        "srID": "CHA",
+        "tid": 29,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2004,
+      "phase": 4,
+      "id": 205,
+      "info": {
+        "divs": [
+          {
+            "did": 0,
+            "cid": 0,
+            "name": "Atlantic Division"
+          },
+          {
+            "did": 1,
+            "cid": 0,
+            "name": "Central Division"
+          },
+          {
+            "did": 2,
+            "cid": 0,
+            "name": "Southeast Division"
+          },
+          {
+            "did": 3,
+            "cid": 1,
+            "name": "Northwest Division"
+          },
+          {
+            "did": 4,
+            "cid": 1,
+            "name": "Southwest Division"
+          },
+          {
+            "did": 5,
+            "cid": 1,
+            "name": "Pacific Division"
+          }
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1990,
+      "phase": 4,
+      "id": 206,
+      "info": {
+        "draftType": "nba1990"
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 4,
+      "id": 207,
+      "info": {
+        "draftType": "nba1994"
+      }
+    }
+  ]
+}
