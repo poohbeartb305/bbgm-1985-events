@@ -493,7 +493,8 @@
       "value": 92.7
     },
     {
-      "numGamesPlayoffSeries": [
+      "key": "numGamesPlayoffSeries",
+      "value": [
         5,
         7,
         7,
@@ -540,7 +541,7 @@
             "abbrev": "MIA",
             "pop": 3.6,
             "stadiumCapacity": 15008,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588074834542612/miami1988.png",
+            "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1034566494715125820/miami1988.png",
             "jersey": "jersey2",
             "colors": [
               "#161618",
@@ -3468,6 +3469,20 @@
       "id": 207,
       "info": {
         "draftType": "nba1994"
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2003,
+      "phase": 0,
+      "id": 208,
+      "info": {
+        "numGamesPlayoffSeries": [
+          7,
+          7,
+          7,
+          7
+        ]
       }
     }
   ]
