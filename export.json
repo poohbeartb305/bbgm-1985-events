@@ -331,7 +331,7 @@
       "region": "San Antonio",
       "name": "Spurs",
       "abbrev": "SAS",
-      "pop": 1.0,
+      "pop": 1,
       "stadiumCapacity": 15800,
       "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196123119407115/sanantonio1976.png",
       "jersey": "jersey2",
@@ -393,119 +393,62 @@
       ]
     }
   ],
-  "gameAttributes": [
-    {
-      "key": "luxuryPayroll",
-      "value": 25000
-    },
-    {
-      "key": "luxuryTax",
-      "value": 1.5
-    },
-    {
-      "key": "maxContract",
-      "value": 7000
-    },
-    {
-      "key": "minContract",
-      "value": 300
-    },
-    {
-      "key": "minPayroll",
-      "value": 15000
-    },
-    {
-      "key": "salaryCap",
-      "value": 23000
-    },
-    {
-      "key": "confs",
-      "value": [
-        {
-          "cid": 0,
-          "name": "Eastern Conference"
-        },
-        {
-          "cid": 1,
-          "name": "Western Conference"
-        }
-      ]
-    },
-    {
-      "key": "divs",
-      "value": [
-        {
-          "did": 0,
-          "cid": 0,
-          "name": "Atlantic Division"
-        },
-        {
-          "did": 1,
-          "cid": 0,
-          "name": "Central Division"
-        },
-        {
-          "did": 2,
-          "cid": 1,
-          "name": "Midwest Division"
-        },
-        {
-          "did": 3,
-          "cid": 1,
-          "name": "Pacific Division"
-        }
-      ]
-    },
-    {
-      "key": "playIn",
-      "value": false
-    },
-    {
-      "key": "draftType",
-      "value": "randomLotteryFirst3"
-    },
-    {
-      "key": "elamASG",
-      "value": false
-    },
-    {
-      "key": "orbFactor",
-      "value": 1.031125
-    },
-    {
-      "key": "stealFactor",
-      "value": 1.09
-    },
-    {
-      "key": "turnoverFactor",
-      "value": 1.02
-    },
-    {
-      "key": "twoPointAccuracyFactor",
-      "value": 1.009
-    },
-    {
-      "key": "threePointTendencyFactor",
-      "value": 0.577
-    },
-    {
-      "key": "pace",
-      "value": 92.7
-    },
-    {
-      "key": "numGamesPlayoffSeries",
-      "value": [
-        5,
-        7,
-        7,
-        7
-      ]
-    },
-    {
-      "key": "maxRosterSize",
-      "value": 15
-    }
-  ],
+  "gameAttributes": {
+    "luxuryPayroll": 25000,
+    "luxuryTax": 1.5,
+    "maxContract": 7000,
+    "minContract": 300,
+    "minPayroll": 15000,
+    "salaryCap": 23000,
+    "confs": [
+      {
+        "cid": 0,
+        "name": "Eastern Conference"
+      },
+      {
+        "cid": 1,
+        "name": "Western Conference"
+      }
+    ],
+    "divs": [
+      {
+        "did": 0,
+        "cid": 0,
+        "name": "Atlantic Division"
+      },
+      {
+        "did": 1,
+        "cid": 0,
+        "name": "Central Division"
+      },
+      {
+        "did": 2,
+        "cid": 1,
+        "name": "Midwest Division"
+      },
+      {
+        "did": 3,
+        "cid": 1,
+        "name": "Pacific Division"
+      }
+    ],
+    "playIn": false,
+    "draftType": "randomLotteryFirst3",
+    "elamASG": false,
+    "orbFactor": 1.031125,
+    "stealFactor": 1.09,
+    "turnoverFactor": 1.02,
+    "twoPointAccuracyFactor": 1.009,
+    "threePointTendencyFactor": 0.577,
+    "pace": 92.7,
+    "numGamesPlayoffSeries": [
+      5,
+      7,
+      7,
+      7
+    ],
+    "maxRosterSize": 15
+  },
   "scheduledEvents": [
     {
       "type": "expansionDraft",
@@ -584,7 +527,7 @@
             "region": "Minnesota",
             "name": "Timberwolves",
             "abbrev": "MIN",
-            "pop": 2.0,
+            "pop": 2,
             "stadiumCapacity": 50000,
             "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588823836573756/minnesota1989.png",
             "jersey": "jersey2",
@@ -679,7 +622,7 @@
         "region": "Sacramento",
         "name": "Kings",
         "abbrev": "SAC",
-        "pop": 0.970,
+        "pop": 0.97,
         "tid": 10,
         "stadiumCapacity": 10333,
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031307812954972190/sacramento1985.png",
@@ -1213,7 +1156,7 @@
         "region": "New Orleans",
         "name": "Hornets",
         "abbrev": "NOH",
-        "pop": 1.0,
+        "pop": 1,
         "stadiumCapacity": 17200,
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032326345805549620/neworleans2002.png",
         "jersey": "jersey2",
@@ -1476,7 +1419,7 @@
         "region": "Oklahoma City",
         "name": "Thunder",
         "abbrev": "OKC",
-        "pop": 0.840,
+        "pop": 0.84,
         "stadiumCapacity": 19136,
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032344577622941777/oklahomacity2008.png",
         "jersey": "jersey2",
