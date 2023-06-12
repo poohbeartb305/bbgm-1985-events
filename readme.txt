@@ -182,7 +182,8 @@ F171 - Miami Heat move to Atlantic Division 1990
 F172 - Charlotte Hornets move to Central Division 1991
 F173 - Orlando Magic move to Midwest Division 1991
 F174 - Orlando Magic move to Atlantic Division 1992
-F175 - 205 NBA's alignment to create three divisions with five teams each in both conferences 2005
+F175 - F205 NBA's alignment to create three divisions with five teams each in both conferences 2005
 F206 - NBA Draft format change 1990
 F207 - NBA Draft format change 1994
-F208 - NBA Playoff format change 2003
+F208 - NBA Draft format change 2019
+F209 - NBA Playoff format change 2003

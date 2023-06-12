@@ -48,8 +48,8 @@
       "jersey": "jersey2",
       "colors": [
         "#BA0B2F",
-        "#BA0B2F",
-        "#FFFFFF"
+        "#FFFFFF",
+        "#BA0B2F"
       ]
     },
     {
@@ -184,8 +184,8 @@
       "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
-        "#002F6C"
+        "#002F6C",
+        "#FFFFFF"
       ]
     },
     {
@@ -300,10 +300,10 @@
       "pop": 1.6,
       "stadiumCapacity": 14660,
       "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196084020088863/phoenix1968.png",
-      "jersey": "jersey3",
+      "jersey": "jersey4",
       "colors": [
         "#5F249F",
-        "#5F249F",
+        "#E55F20",
         "#E55F20"
       ]
     },
@@ -317,7 +317,7 @@
       "pop": 1.1,
       "stadiumCapacity": 12666,
       "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030191661998940240/portland1970.png",
-      "jersey": "jersey3",
+      "jersey": "jersey4",
       "colors": [
         "#061922",
         "#061922",
@@ -334,10 +334,10 @@
       "pop": 1,
       "stadiumCapacity": 15800,
       "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196123119407115/sanantonio1976.png",
-      "jersey": "jersey2",
+      "jersey": "jersey4",
       "colors": [
         "#161618",
-        "#161618",
+        "#C4CED4",
         "#C4CED4"
       ]
     },
@@ -400,6 +400,7 @@
     "minContract": 300,
     "minPayroll": 15000,
     "salaryCap": 23000,
+    "numGames": 82,
     "confs": [
       {
         "cid": 0,
@@ -433,7 +434,9 @@
       }
     ],
     "playIn": false,
+    "minRetireAge": 28,
     "draftType": "randomLotteryFirst3",
+    "allStarType": "byConf",
     "elamASG": false,
     "orbFactor": 1.031125,
     "stealFactor": 1.09,
@@ -641,7 +644,6 @@
       "id": 5,
       "info": {
         "tid": 22,
-        "srID": "WAS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588015300591646/washington1987.png",
         "jersey": "jersey2",
         "colors": [
@@ -658,7 +660,6 @@
       "id": 6,
       "info": {
         "tid": 15,
-        "srID": "NYK",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031342986786787468/newyork1989.png"
       }
     },
@@ -669,7 +670,6 @@
       "id": 7,
       "info": {
         "tid": 19,
-        "srID": "SAS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343041824428142/sanantonio1989.png"
       }
     },
@@ -680,7 +680,6 @@
       "id": 8,
       "info": {
         "tid": 9,
-        "srID": "IND",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343459954589706/indiana1990.png",
         "jersey": "jersey4",
         "colors": [
@@ -697,7 +696,6 @@
       "id": 9,
       "info": {
         "tid": 14,
-        "srID": "NJN",
         "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031690017728372836/newjersey1990.png",
         "jersey": "jersey2",
         "colors": [
@@ -714,7 +712,6 @@
       "id": 10,
       "info": {
         "tid": 18,
-        "srID": "POR",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343634093723648/portland1990.png"
       }
     },
@@ -725,7 +722,6 @@
       "id": 11,
       "info": {
         "tid": 15,
-        "srID": "NYK",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343779095003196/newyork1992.png"
       }
     },
@@ -736,7 +732,6 @@
       "id": 12,
       "info": {
         "tid": 17,
-        "srID": "PHX",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343812594901084/phoenix1992.png"
       }
     },
@@ -747,7 +742,6 @@
       "id": 13,
       "info": {
         "tid": 4,
-        "srID": "DAL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344674415321119/dallas1993.png",
         "jersey": "jersey2",
         "colors": [
@@ -764,7 +758,6 @@
       "id": 14,
       "info": {
         "tid": 5,
-        "srID": "DEN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344715292999750/denver1993.png",
         "jersey": "jersey2",
         "colors": [
@@ -781,7 +774,6 @@
       "id": 15,
       "info": {
         "tid": 13,
-        "srID": "MIL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344746683174972/milwaukee1993.png",
         "jersey": "jersey2",
         "colors": [
@@ -798,7 +790,6 @@
       "id": 16,
       "info": {
         "tid": 3,
-        "srID": "CLE",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344784314486855/cleveland1994.png",
         "jersey": "jersey4",
         "colors": [
@@ -815,7 +806,6 @@
       "id": 17,
       "info": {
         "tid": 10,
-        "srID": "SAC",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344816501555331/sacramento1994.png",
         "jersey": "jersey2",
         "colors": [
@@ -832,7 +822,6 @@
       "id": 18,
       "info": {
         "tid": 0,
-        "srID": "ATL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344857932890112/atlanta1995.png",
         "jersey": "jersey4",
         "colors": [
@@ -849,7 +838,6 @@
       "id": 19,
       "info": {
         "tid": 8,
-        "srID": "HOU",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344905689251871/houston1995.png",
         "jersey": "jersey2",
         "colors": [
@@ -866,7 +854,6 @@
       "id": 20,
       "info": {
         "tid": 15,
-        "srID": "NYK",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344942083219618/newyork1995.png"
       }
     },
@@ -877,7 +864,6 @@
       "id": 21,
       "info": {
         "tid": 20,
-        "srID": "SEA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344967576195102/seattle1995.png",
         "jersey": "jersey2",
         "colors": [
@@ -894,7 +880,6 @@
       "id": 22,
       "info": {
         "tid": 1,
-        "srID": "BOS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346496047693834/boston1996.png"
       }
     },
@@ -905,7 +890,6 @@
       "id": 23,
       "info": {
         "tid": 6,
-        "srID": "DET",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346551999701112/detroit1996.png",
         "jersey": "jersey2",
         "colors": [
@@ -922,7 +906,6 @@
       "id": 24,
       "info": {
         "tid": 26,
-        "srID": "MIN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346581368221766/minnesota1996.png",
         "jersey": "jersey2",
         "colors": [
@@ -939,7 +922,6 @@
       "id": 25,
       "info": {
         "tid": 21,
-        "srID": "UTA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346609260351530/utah1996.png",
         "jersey": "jersey4",
         "colors": [
@@ -956,7 +938,6 @@
       "id": 26,
       "info": {
         "tid": 7,
-        "srID": "GSW",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346704227762216/goldenstate1997.png",
         "jersey": "jersey4",
         "colors": [
@@ -973,7 +954,6 @@
       "id": 27,
       "info": {
         "tid": 14,
-        "srID": "NJN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347408904388608/newjersey1997.png",
         "jersey": "jersey4",
         "colors": [
@@ -990,7 +970,6 @@
       "id": 28,
       "info": {
         "tid": 16,
-        "srID": "PHI",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347524843347988/philadelphia1997.png",
         "jersey": "jersey2",
         "colors": [
@@ -1025,7 +1004,6 @@
       "id": 30,
       "info": {
         "tid": 24,
-        "srID": "MIA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347810337046669/miami1999.png",
         "jersey": "jersey2",
         "colors": [
@@ -1042,7 +1020,6 @@
       "id": 31,
       "info": {
         "tid": 17,
-        "srID": "PHX",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126520505942086/phoenix2000.png",
         "jersey": "jersey2",
         "colors": [
@@ -1059,7 +1036,6 @@
       "id": 32,
       "info": {
         "tid": 25,
-        "srID": "ORL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126597635002389/orlando2000.png"
       }
     },
@@ -1070,7 +1046,6 @@
       "id": 33,
       "info": {
         "tid": 4,
-        "srID": "DAL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126710168170546/dallas2001.png",
         "jersey": "jersey2",
         "colors": [
@@ -1102,7 +1077,6 @@
       "id": 35,
       "info": {
         "tid": 12,
-        "srID": "LAL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032127353003974677/lakers2001.png",
         "jersey": "jersey2",
         "colors": [
@@ -1119,7 +1093,6 @@
       "id": 36,
       "info": {
         "tid": 6,
-        "srID": "DET",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032128998639149177/detroit2001.png",
         "jersey": "jersey2",
         "colors": [
@@ -1136,7 +1109,6 @@
       "id": 37,
       "info": {
         "tid": 20,
-        "srID": "SEA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032324869376966676/seattle2001.png",
         "jersey": "jersey2",
         "colors": [
@@ -1174,7 +1146,6 @@
       "id": 39,
       "info": {
         "tid": 18,
-        "srID": "POR",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032327498639351878/portland2002.png",
         "jersey": "jersey2",
         "colors": [
@@ -1191,7 +1162,6 @@
       "id": 40,
       "info": {
         "tid": 19,
-        "srID": "SAS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032327688096059462/sanantonio2002.png"
       }
     },
@@ -1202,7 +1172,6 @@
       "id": 41,
       "info": {
         "tid": 3,
-        "srID": "CLE",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328315962404884/cleveland2003.png",
         "jersey": "jersey2",
         "colors": [
@@ -1219,7 +1188,6 @@
       "id": 42,
       "info": {
         "tid": 5,
-        "srID": "DEN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328361353154630/denver2003.png",
         "jersey": "jersey2",
         "colors": [
@@ -1236,7 +1204,6 @@
       "id": 43,
       "info": {
         "tid": 8,
-        "srID": "HOU",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328420052439111/houston2003.png",
         "jersey": "jersey2",
         "colors": [
@@ -1253,7 +1220,6 @@
       "id": 44,
       "info": {
         "tid": 18,
-        "srID": "POR",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328541230071839/portland2003.png"
       }
     },
@@ -1264,7 +1230,6 @@
       "id": 45,
       "info": {
         "tid": 28,
-        "srID": "MEM",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032330679020687360/memphis2004.png",
         "jersey": "jersey2",
         "colors": [
@@ -1281,7 +1246,6 @@
       "id": 46,
       "info": {
         "tid": 21,
-        "srID": "UTA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032330741880737812/utah2004.png",
         "jersey": "jersey2",
         "colors": [
@@ -1298,7 +1262,6 @@
       "id": 47,
       "info": {
         "tid": 6,
-        "srID": "DET",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032331204260794458/detroit2005.png",
         "jersey": "jersey2",
         "colors": [
@@ -1315,7 +1278,6 @@
       "id": 48,
       "info": {
         "tid": 9,
-        "srID": "IND",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032341353314660382/indiana2005.png",
         "jersey": "jersey2",
         "colors": [
@@ -1332,7 +1294,6 @@
       "id": 49,
       "info": {
         "tid": 13,
-        "srID": "MIL",
         "imgURL": "https://media.discordapp.net/attachments/1030555652298379345/1032341953947369492/milwaukee2006.png",
         "jersey": "jersey2",
         "colors": [
@@ -1349,7 +1310,6 @@
       "id": 50,
       "info": {
         "tid": 0,
-        "srID": "ATL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032342936291123302/atlanta2007.png",
         "jersey": "jersey2",
         "colors": [
@@ -1366,7 +1326,6 @@
       "id": 51,
       "info": {
         "tid": 29,
-        "srID": "CHA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343804642086963/charlotte2007.png"
       }
     },
@@ -1377,7 +1336,6 @@
       "id": 52,
       "info": {
         "tid": 22,
-        "srID": "WAS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343854038401124/washington2007.png"
       }
     },
@@ -1388,7 +1346,6 @@
       "id": 53,
       "info": {
         "tid": 26,
-        "srID": "MIN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343963962724424/minnesota2008.png"
       }
     },
@@ -1399,7 +1356,6 @@
       "id": 54,
       "info": {
         "tid": 23,
-        "srID": "NOH",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032344523906486372/neworleans2008.png",
         "jersey": "jersey5",
         "colors": [
@@ -1437,7 +1393,6 @@
       "id": 56,
       "info": {
         "tid": 27,
-        "srID": "TOR",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032346345366892644/toronto2008.png"
       }
     },
@@ -1448,7 +1403,6 @@
       "id": 57,
       "info": {
         "tid": 16,
-        "srID": "PHI",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032346407056724048/philadelphia2009.png",
         "jersey": "jersey4",
         "colors": [
@@ -1465,7 +1419,6 @@
       "id": 58,
       "info": {
         "tid": 3,
-        "srID": "CLE",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032354622507077723/cleveland2010.png",
         "jersey": "jersey2",
         "colors": [
@@ -1482,7 +1435,6 @@
       "id": 59,
       "info": {
         "tid": 11,
-        "srID": "LAC",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032354679541219338/clippers2010.png",
         "jersey": "jersey4",
         "colors": [
@@ -1499,7 +1451,6 @@
       "id": 60,
       "info": {
         "tid": 7,
-        "srID": "GSW",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355363724476527/goldenstate2010.png",
         "jersey": "jersey2",
         "colors": [
@@ -1516,7 +1467,6 @@
       "id": 61,
       "info": {
         "tid": 25,
-        "srID": "ORL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355405529104465/orlando2010.png"
       }
     },
@@ -1527,7 +1477,6 @@
       "id": 62,
       "info": {
         "tid": 25,
-        "srID": "UTA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355750544150598/utah2010.png",
         "jersey": "jersey2",
         "colors": [
@@ -1544,7 +1493,6 @@
       "id": 63,
       "info": {
         "tid": 22,
-        "srID": "WAS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356091570425946/washington2011.png",
         "jersey": "jersey4",
         "colors": [
@@ -1561,7 +1509,6 @@
       "id": 64,
       "info": {
         "tid": 15,
-        "srID": "NYK",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356199460503613/newyork2011.png"
       }
     },
@@ -1593,7 +1540,6 @@
       "id": 66,
       "info": {
         "tid": 29,
-        "srID": "CHA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357175084978237/bobcats2012.png"
       }
     },
@@ -1623,7 +1569,6 @@
       "id": 68,
       "info": {
         "tid": 17,
-        "srID": "PHX",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357345101086761/phoenix2013.png",
         "jersey": "jersey2",
         "colors": [
@@ -1659,7 +1604,6 @@
       "id": 70,
       "info": {
         "tid": 0,
-        "srID": "ATL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358079490175097/atlanta2015.png",
         "jersey": "jersey2",
         "colors": [
@@ -1676,7 +1620,6 @@
       "id": 71,
       "info": {
         "tid": 11,
-        "srID": "LAC",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358164651315330/clippers2015.png"
       }
     },
@@ -1687,7 +1630,6 @@
       "id": 72,
       "info": {
         "tid": 13,
-        "srID": "MIL",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358243198042133/milwaukee2015.png",
         "jersey": "jersey2",
         "colors": [
@@ -1704,7 +1646,6 @@
       "id": 73,
       "info": {
         "tid": 16,
-        "srID": "PHI",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358299011649656/philadelphia2015.png",
         "jersey": "jersey2",
         "colors": [
@@ -1721,7 +1662,6 @@
       "id": 74,
       "info": {
         "tid": 27,
-        "srID": "TOR",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358912856440893/toronto2015.png",
         "jersey": "jersey2",
         "colors": [
@@ -1738,7 +1678,6 @@
       "id": 75,
       "info": {
         "tid": 21,
-        "srID": "UTA",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359913051140106/utah2016.png",
         "jersey": "jersey2",
         "colors": [
@@ -1755,7 +1694,6 @@
       "id": 76,
       "info": {
         "tid": 10,
-        "srID": "SAC",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359225977995295/sacramento2016.png",
         "jersey": "jersey4",
         "colors": [
@@ -1772,7 +1710,6 @@
       "id": 77,
       "info": {
         "tid": 3,
-        "srID": "CLE",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359271020638318/cleveland2017.png",
         "jersey": "jersey2",
         "colors": [
@@ -1789,7 +1726,6 @@
       "id": 78,
       "info": {
         "tid": 6,
-        "srID": "DET",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032805176358207539/detroit2017.png"
       }
     },
@@ -1800,7 +1736,6 @@
       "id": 79,
       "info": {
         "tid": 9,
-        "srID": "IND",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359414511980604/indiana2017.png",
         "jersey": "jersey2",
         "colors": [
@@ -1817,7 +1752,6 @@
       "id": 80,
       "info": {
         "tid": 26,
-        "srID": "MIN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359445591760926/minnesota2017.png",
         "jersey": "jersey3",
         "colors": [
@@ -1834,7 +1768,6 @@
       "id": 81,
       "info": {
         "tid": 18,
-        "srID": "POR",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359662080774285/portland2017.png",
         "jersey": "jersey4",
         "colors": [
@@ -1851,7 +1784,6 @@
       "id": 82,
       "info": {
         "tid": 19,
-        "srID": "SAS",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359749833990234/sanantonio2017.png"
       }
     },
@@ -1862,7 +1794,6 @@
       "id": 83,
       "info": {
         "tid": 5,
-        "srID": "DEN",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360007607521321/denver2018.png",
         "jersey": "jersey2",
         "colors": [
@@ -1879,7 +1810,6 @@
       "id": 84,
       "info": {
         "tid": 28,
-        "srID": "MEM",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360204668510278/memphis2018.png",
         "jersey": "jersey2",
         "colors": [
@@ -1896,7 +1826,6 @@
       "id": 85,
       "info": {
         "tid": 7,
-        "srID": "GSW",
         "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360305415704647/goldenstate2019.png",
         "jersey": "jersey2",
         "colors": [
@@ -1913,7 +1842,6 @@
       "id": 86,
       "info": {
         "tid": 3,
-        "srID": "CLE",
         "jersey": "jersey4",
         "colors": [
           "#003DA5",
@@ -1929,7 +1857,6 @@
       "id": 87,
       "info": {
         "tid": 7,
-        "srID": "GSW",
         "jersey": "jersey2",
         "colors": [
           "#002F6C",
@@ -1945,7 +1872,6 @@
       "id": 88,
       "info": {
         "tid": 11,
-        "srID": "LAC",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1961,7 +1887,6 @@
       "id": 89,
       "info": {
         "tid": 10,
-        "srID": "SAC",
         "jersey": "jersey4",
         "colors": [
           "#002F6C",
@@ -1977,7 +1902,6 @@
       "id": 90,
       "info": {
         "tid": 0,
-        "srID": "ATL",
         "jersey": "jersey4",
         "colors": [
           "#C8102E",
@@ -1993,7 +1917,6 @@
       "id": 91,
       "info": {
         "tid": 16,
-        "srID": "PHI",
         "jersey": "jersey4",
         "colors": [
           "#D50032",
@@ -2009,7 +1932,6 @@
       "id": 92,
       "info": {
         "tid": 23,
-        "srID": "CHA",
         "jersey": "jersey4",
         "colors": [
           "#00778B",
@@ -2025,7 +1947,6 @@
       "id": 93,
       "info": {
         "tid": 9,
-        "srID": "IND",
         "jersey": "jersey5",
         "colors": [
           "#041042",
@@ -2041,7 +1962,6 @@
       "id": 93,
       "info": {
         "tid": 25,
-        "srID": "ORL",
         "jersey": "jersey2",
         "colors": [
           "#0057B7",
@@ -2057,7 +1977,6 @@
       "id": 95,
       "info": {
         "tid": 27,
-        "srID": "TOR",
         "jersey": "jersey2",
         "colors": [
           "#753BBD",
@@ -2073,7 +1992,6 @@
       "id": 96,
       "info": {
         "tid": 11,
-        "srID": "LAC",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -2089,7 +2007,6 @@
       "id": 97,
       "info": {
         "tid": 10,
-        "srID": "SAC",
         "jersey": "jersey2",
         "colors": [
           "#753BBD",
@@ -2105,7 +2022,6 @@
       "id": 98,
       "info": {
         "tid": 27,
-        "srID": "TOR",
         "jersey": "jersey2",
         "colors": [
           "#BA0C2F",
@@ -2121,7 +2037,6 @@
       "id": 99,
       "info": {
         "tid": 25,
-        "srID": "ORL",
         "jersey": "jersey5",
         "colors": [
           "#0057B7",
@@ -2137,7 +2052,6 @@
       "id": 100,
       "info": {
         "tid": 10,
-        "srID": "SAC",
         "jersey": "jersey2",
         "colors": [
           "#753BBD",
@@ -2153,7 +2067,6 @@
       "id": 101,
       "info": {
         "tid": 29,
-        "srID": "CHA",
         "jersey": "jersey5",
         "colors": [
           "#1B365D",
@@ -2169,7 +2082,6 @@
       "id": 102,
       "info": {
         "tid": 29,
-        "srID": "CHA",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -2185,7 +2097,6 @@
       "id": 103,
       "info": {
         "tid": 11,
-        "srID": "LAC",
         "jersey": "jersey4",
         "colors": [
           "#003DA5",
@@ -2201,7 +2112,6 @@
       "id": 104,
       "info": {
         "tid": 17,
-        "srID": "PHX",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -2217,7 +2127,6 @@
       "id": 105,
       "info": {
         "tid": 12,
-        "srID": "LAL",
         "jersey": "jersey4",
         "colors": [
           "#FFC72C",
@@ -2233,7 +2142,6 @@
       "id": 106,
       "info": {
         "tid": 25,
-        "srID": "ORL",
         "jersey": "jersey5",
         "colors": [
           "#161618",
@@ -2248,7 +2156,6 @@
       "phase": 0,
       "id": 107,
       "info": {
-        "srID": "ATL",
         "tid": 0,
         "stadiumCapacity": 9191
       }
@@ -2259,7 +2166,6 @@
       "phase": 0,
       "id": 108,
       "info": {
-        "srID": "ATL",
         "tid": 0,
         "stadiumCapacity": 20233
       }
@@ -2270,7 +2176,6 @@
       "phase": 0,
       "id": 109,
       "info": {
-        "srID": "ATL",
         "tid": 0,
         "stadiumCapacity": 18729
       }
@@ -2281,7 +2186,6 @@
       "phase": 0,
       "id": 110,
       "info": {
-        "srID": "ATL",
         "tid": 0,
         "stadiumCapacity": 16600
       }
@@ -2292,7 +2196,6 @@
       "phase": 0,
       "id": 111,
       "info": {
-        "srID": "BOS",
         "tid": 1,
         "stadiumCapacity": 19156
       }
@@ -2303,7 +2206,6 @@
       "phase": 0,
       "id": 112,
       "info": {
-        "srID": "CHI",
         "tid": 2,
         "stadiumCapacity": 21711
       }
@@ -2314,7 +2216,6 @@
       "phase": 0,
       "id": 113,
       "info": {
-        "srID": "CHI",
         "tid": 2,
         "stadiumCapacity": 20917
       }
@@ -2325,7 +2226,6 @@
       "phase": 0,
       "id": 114,
       "info": {
-        "srID": "CLE",
         "tid": 3,
         "stadiumCapacity": 20273
       }
@@ -2336,7 +2236,6 @@
       "phase": 0,
       "id": 115,
       "info": {
-        "srID": "CLE",
         "tid": 3,
         "stadiumCapacity": 19432
       }
@@ -2347,7 +2246,6 @@
       "phase": 0,
       "id": 116,
       "info": {
-        "srID": "CHA",
         "tid": 3,
         "stadiumCapacity": 19077
       }
@@ -2358,7 +2256,6 @@
       "phase": 0,
       "id": 117,
       "info": {
-        "srID": "DAL",
         "tid": 4,
         "stadiumCapacity": 17502
       }
@@ -2369,7 +2266,6 @@
       "phase": 0,
       "id": 118,
       "info": {
-        "srID": "DAL",
         "tid": 4,
         "stadiumCapacity": 19200
       }
@@ -2380,7 +2276,6 @@
       "phase": 0,
       "id": 119,
       "info": {
-        "srID": "DEN",
         "tid": 5,
         "stadiumCapacity": 19099
       }
@@ -2391,7 +2286,6 @@
       "phase": 0,
       "id": 120,
       "info": {
-        "srID": "DEN",
         "tid": 5,
         "stadiumCapacity": 19520
       }
@@ -2402,7 +2296,6 @@
       "phase": 0,
       "id": 121,
       "info": {
-        "srID": "DET",
         "tid": 6,
         "stadiumCapacity": 22076
       }
@@ -2413,7 +2306,6 @@
       "phase": 0,
       "id": 122,
       "info": {
-        "srID": "DET",
         "tid": 6,
         "stadiumCapacity": 19515
       }
@@ -2424,7 +2316,6 @@
       "phase": 0,
       "id": 123,
       "info": {
-        "srID": "GSW",
         "tid": 7,
         "stadiumCapacity": 18543
       }
@@ -2435,7 +2326,6 @@
       "phase": 0,
       "id": 124,
       "info": {
-        "srID": "GSW",
         "tid": 7,
         "stadiumCapacity": 19596
       }
@@ -2446,7 +2336,6 @@
       "phase": 0,
       "id": 125,
       "info": {
-        "srID": "GSW",
         "tid": 7,
         "stadiumCapacity": 18064
       }
@@ -2457,7 +2346,6 @@
       "phase": 0,
       "id": 126,
       "info": {
-        "srID": "HOU",
         "tid": 8,
         "stadiumCapacity": 16611
       }
@@ -2468,7 +2356,6 @@
       "phase": 0,
       "id": 127,
       "info": {
-        "srID": "HOU",
         "tid": 8,
         "stadiumCapacity": 17982
       }
@@ -2479,7 +2366,6 @@
       "phase": 0,
       "id": 128,
       "info": {
-        "srID": "HOU",
         "tid": 8,
         "stadiumCapacity": 18430
       }
@@ -2490,7 +2376,6 @@
       "phase": 0,
       "id": 129,
       "info": {
-        "srID": "HOU",
         "tid": 8,
         "stadiumCapacity": 18055
       }
@@ -2501,7 +2386,6 @@
       "phase": 0,
       "id": 130,
       "info": {
-        "srID": "IND",
         "tid": 9,
         "stadiumCapacity": 16530
       }
@@ -2512,7 +2396,6 @@
       "phase": 0,
       "id": 131,
       "info": {
-        "srID": "IND",
         "tid": 9,
         "stadiumCapacity": 18345
       }
@@ -2523,7 +2406,6 @@
       "phase": 0,
       "id": 132,
       "info": {
-        "srID": "IND",
         "tid": 9,
         "stadiumCapacity": 17923
       }
@@ -2534,7 +2416,6 @@
       "phase": 0,
       "id": 133,
       "info": {
-        "srID": "LAC",
         "tid": 11,
         "stadiumCapacity": 16005
       }
@@ -2545,7 +2426,6 @@
       "phase": 0,
       "id": 134,
       "info": {
-        "srID": "LAC",
         "tid": 11,
         "stadiumCapacity": 19079
       }
@@ -2556,7 +2436,6 @@
       "phase": 0,
       "id": 135,
       "info": {
-        "srID": "LAL",
         "tid": 12,
         "stadiumCapacity": 19079
       }
@@ -2567,7 +2446,6 @@
       "phase": 0,
       "id": 136,
       "info": {
-        "srID": "MEM",
         "tid": 28,
         "stadiumCapacity": 17794
       }
@@ -2578,7 +2456,6 @@
       "phase": 0,
       "id": 137,
       "info": {
-        "srID": "MIL",
         "tid": 13,
         "stadiumCapacity": 18633
       }
@@ -2589,7 +2466,6 @@
       "phase": 0,
       "id": 138,
       "info": {
-        "srID": "MIL",
         "tid": 13,
         "stadiumCapacity": 17385
       }
@@ -2600,7 +2476,6 @@
       "phase": 0,
       "id": 139,
       "info": {
-        "srID": "MIA",
         "tid": 24,
         "stadiumCapacity": 15200
       }
@@ -2611,7 +2486,6 @@
       "phase": 0,
       "id": 140,
       "info": {
-        "srID": "MIA",
         "tid": 24,
         "stadiumCapacity": 19600
       }
@@ -2622,7 +2496,6 @@
       "phase": 0,
       "id": 141,
       "info": {
-        "srID": "NJN",
         "tid": 14,
         "stadiumCapacity": 20050
       }
@@ -2633,7 +2506,6 @@
       "phase": 0,
       "id": 142,
       "info": {
-        "srID": "NJN",
         "tid": 14,
         "stadiumCapacity": 18711
       }
@@ -2644,7 +2516,6 @@
       "phase": 0,
       "id": 143,
       "info": {
-        "srID": "NOP",
         "tid": 23,
         "stadiumCapacity": 16867
       }
@@ -2655,7 +2526,6 @@
       "phase": 0,
       "id": 144,
       "info": {
-        "srID": "NYK",
         "tid": 15,
         "stadiumCapacity": 19763
       }
@@ -2666,7 +2536,6 @@
       "phase": 0,
       "id": 145,
       "info": {
-        "srID": "NYK",
         "tid": 15,
         "stadiumCapacity": 19812
       }
@@ -2677,7 +2546,6 @@
       "phase": 0,
       "id": 146,
       "info": {
-        "srID": "OKC",
         "tid": 20,
         "stadiumCapacity": 18203
       }
@@ -2688,7 +2556,6 @@
       "phase": 0,
       "id": 147,
       "info": {
-        "srID": "ORL",
         "tid": 25,
         "stadiumCapacity": 17248
       }
@@ -2699,7 +2566,6 @@
       "phase": 0,
       "id": 148,
       "info": {
-        "srID": "ORL",
         "tid": 25,
         "stadiumCapacity": 18846
       }
@@ -2710,7 +2576,6 @@
       "phase": 0,
       "id": 149,
       "info": {
-        "srID": "PHI",
         "tid": 16,
         "stadiumCapacity": 18168
       }
@@ -2721,7 +2586,6 @@
       "phase": 0,
       "id": 150,
       "info": {
-        "srID": "PHI",
         "tid": 16,
         "stadiumCapacity": 20338
       }
@@ -2732,7 +2596,6 @@
       "phase": 0,
       "id": 151,
       "info": {
-        "srID": "PHI",
         "tid": 16,
         "stadiumCapacity": 20478
       }
@@ -2743,7 +2606,6 @@
       "phase": 0,
       "id": 152,
       "info": {
-        "srID": "PHX",
         "tid": 17,
         "stadiumCapacity": 17071
       }
@@ -2754,7 +2616,6 @@
       "phase": 0,
       "id": 153,
       "info": {
-        "srID": "POR",
         "tid": 18,
         "stadiumCapacity": 12888
       }
@@ -2765,7 +2626,6 @@
       "phase": 0,
       "id": 154,
       "info": {
-        "srID": "POR",
         "tid": 18,
         "stadiumCapacity": 21401
       }
@@ -2776,7 +2636,6 @@
       "phase": 0,
       "id": 155,
       "info": {
-        "srID": "POR",
         "tid": 18,
         "stadiumCapacity": 19980
       }
@@ -2787,7 +2646,6 @@
       "phase": 0,
       "id": 156,
       "info": {
-        "srID": "POR",
         "tid": 18,
         "stadiumCapacity": 19393
       }
@@ -2798,7 +2656,6 @@
       "phase": 0,
       "id": 157,
       "info": {
-        "srID": "SAC",
         "tid": 10,
         "stadiumCapacity": 17317
       }
@@ -2809,7 +2666,6 @@
       "phase": 0,
       "id": 158,
       "info": {
-        "srID": "SAC",
         "tid": 10,
         "stadiumCapacity": 17608
       }
@@ -2820,7 +2676,6 @@
       "phase": 0,
       "id": 159,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "stadiumCapacity": 16057
       }
@@ -2831,7 +2686,6 @@
       "phase": 0,
       "id": 160,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "stadiumCapacity": 20662
       }
@@ -2842,7 +2696,6 @@
       "phase": 0,
       "id": 161,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "stadiumCapacity": 19217
       }
@@ -2853,7 +2706,6 @@
       "phase": 0,
       "id": 162,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "stadiumCapacity": 18797
       }
@@ -2864,7 +2716,6 @@
       "phase": 0,
       "id": 163,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "stadiumCapacity": 18581
       }
@@ -2875,7 +2726,6 @@
       "phase": 0,
       "id": 164,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "stadiumCapacity": 18418
       }
@@ -2886,7 +2736,6 @@
       "phase": 0,
       "id": 165,
       "info": {
-        "srID": "TOR",
         "tid": 27,
         "stadiumCapacity": 19800
       }
@@ -2897,7 +2746,6 @@
       "phase": 0,
       "id": 166,
       "info": {
-        "srID": "UTA",
         "tid": 21,
         "stadiumCapacity": 18306
       }
@@ -2908,7 +2756,6 @@
       "phase": 0,
       "id": 167,
       "info": {
-        "srID": "WAS",
         "tid": 22,
         "stadiumCapacity": 18756
       }
@@ -2919,7 +2766,6 @@
       "phase": 0,
       "id": 168,
       "info": {
-        "srID": "WAS",
         "tid": 22,
         "stadiumCapacity": 20356
       }
@@ -2930,7 +2776,6 @@
       "phase": 0,
       "id": 169,
       "info": {
-        "srID": "SAC",
         "tid": 10,
         "cid": 1,
         "did": 3
@@ -2942,7 +2787,6 @@
       "phase": 0,
       "id": 170,
       "info": {
-        "srID": "CHA",
         "tid": 23,
         "cid": 1,
         "did": 2
@@ -2954,7 +2798,6 @@
       "phase": 0,
       "id": 171,
       "info": {
-        "srID": "MIA",
         "tid": 24,
         "cid": 0,
         "did": 0
@@ -2966,7 +2809,6 @@
       "phase": 0,
       "id": 172,
       "info": {
-        "srID": "CHA",
         "tid": 23,
         "cid": 0,
         "did": 1
@@ -2978,7 +2820,6 @@
       "phase": 0,
       "id": 173,
       "info": {
-        "srID": "ORL",
         "tid": 25,
         "cid": 1,
         "did": 2
@@ -2990,7 +2831,6 @@
       "phase": 0,
       "id": 174,
       "info": {
-        "srID": "ORL",
         "tid": 25,
         "cid": 0,
         "did": 0
@@ -3002,7 +2842,6 @@
       "phase": 0,
       "id": 175,
       "info": {
-        "srID": "ATL",
         "tid": 0,
         "cid": 0,
         "did": 2
@@ -3014,7 +2853,6 @@
       "phase": 0,
       "id": 176,
       "info": {
-        "srID": "BOS",
         "tid": 1,
         "cid": 0,
         "did": 0
@@ -3026,7 +2864,6 @@
       "phase": 0,
       "id": 177,
       "info": {
-        "srID": "NOH",
         "tid": 23,
         "cid": 1,
         "did": 4
@@ -3038,7 +2875,6 @@
       "phase": 0,
       "id": 178,
       "info": {
-        "srID": "CHI",
         "tid": 2,
         "cid": 0,
         "did": 1
@@ -3050,7 +2886,6 @@
       "phase": 0,
       "id": 179,
       "info": {
-        "srID": "CLE",
         "tid": 3,
         "cid": 0,
         "did": 1
@@ -3062,7 +2897,6 @@
       "phase": 0,
       "id": 180,
       "info": {
-        "srID": "DAL",
         "tid": 4,
         "cid": 1,
         "did": 4
@@ -3074,7 +2908,6 @@
       "phase": 0,
       "id": 181,
       "info": {
-        "srID": "DEN",
         "tid": 5,
         "cid": 1,
         "did": 3
@@ -3086,7 +2919,6 @@
       "phase": 0,
       "id": 182,
       "info": {
-        "srID": "DET",
         "tid": 6,
         "cid": 0,
         "did": 1
@@ -3098,7 +2930,6 @@
       "phase": 0,
       "id": 183,
       "info": {
-        "srID": "GSW",
         "tid": 7,
         "cid": 1,
         "did": 5
@@ -3110,7 +2941,6 @@
       "phase": 0,
       "id": 184,
       "info": {
-        "srID": "HOU",
         "tid": 8,
         "cid": 1,
         "did": 4
@@ -3122,7 +2952,6 @@
       "phase": 0,
       "id": 185,
       "info": {
-        "srID": "IND",
         "tid": 9,
         "cid": 0,
         "did": 1
@@ -3134,7 +2963,6 @@
       "phase": 0,
       "id": 186,
       "info": {
-        "srID": "LAC",
         "tid": 11,
         "cid": 1,
         "did": 5
@@ -3146,7 +2974,6 @@
       "phase": 0,
       "id": 187,
       "info": {
-        "srID": "LAL",
         "tid": 12,
         "cid": 1,
         "did": 5
@@ -3158,7 +2985,6 @@
       "phase": 0,
       "id": 188,
       "info": {
-        "srID": "MIA",
         "tid": 24,
         "cid": 0,
         "did": 2
@@ -3170,7 +2996,6 @@
       "phase": 0,
       "id": 189,
       "info": {
-        "srID": "MIL",
         "tid": 13,
         "cid": 0,
         "did": 1
@@ -3182,7 +3007,6 @@
       "phase": 0,
       "id": 190,
       "info": {
-        "srID": "MIN",
         "tid": 26,
         "cid": 1,
         "did": 3
@@ -3194,7 +3018,6 @@
       "phase": 0,
       "id": 191,
       "info": {
-        "srID": "NJN",
         "tid": 14,
         "cid": 0,
         "did": 0
@@ -3206,7 +3029,6 @@
       "phase": 0,
       "id": 192,
       "info": {
-        "srID": "NYK",
         "tid": 15,
         "cid": 0,
         "did": 0
@@ -3218,7 +3040,6 @@
       "phase": 0,
       "id": 193,
       "info": {
-        "srID": "ORL",
         "tid": 25,
         "cid": 0,
         "did": 2
@@ -3230,7 +3051,6 @@
       "phase": 0,
       "id": 194,
       "info": {
-        "srID": "PHI",
         "tid": 16,
         "cid": 0,
         "did": 0
@@ -3242,7 +3062,6 @@
       "phase": 0,
       "id": 195,
       "info": {
-        "srID": "PHX",
         "tid": 17,
         "cid": 1,
         "did": 5
@@ -3254,7 +3073,6 @@
       "phase": 0,
       "id": 196,
       "info": {
-        "srID": "POR",
         "tid": 18,
         "cid": 1,
         "did": 3
@@ -3266,7 +3084,6 @@
       "phase": 0,
       "id": 197,
       "info": {
-        "srID": "SAC",
         "tid": 10,
         "cid": 1,
         "did": 5
@@ -3278,7 +3095,6 @@
       "phase": 0,
       "id": 198,
       "info": {
-        "srID": "SAS",
         "tid": 19,
         "cid": 1,
         "did": 4
@@ -3290,7 +3106,6 @@
       "phase": 0,
       "id": 199,
       "info": {
-        "srID": "SEA",
         "tid": 20,
         "cid": 1,
         "did": 3
@@ -3302,7 +3117,6 @@
       "phase": 0,
       "id": 200,
       "info": {
-        "srID": "TOR",
         "tid": 27,
         "cid": 0,
         "did": 0
@@ -3314,7 +3128,6 @@
       "phase": 0,
       "id": 201,
       "info": {
-        "srID": "UTA",
         "tid": 21,
         "cid": 1,
         "did": 3
@@ -3326,7 +3139,6 @@
       "phase": 0,
       "id": 202,
       "info": {
-        "srID": "WAS",
         "tid": 22,
         "cid": 0,
         "did": 2
@@ -3338,7 +3150,6 @@
       "phase": 0,
       "id": 203,
       "info": {
-        "srID": "MEM",
         "tid": 28,
         "cid": 1,
         "did": 4
@@ -3350,7 +3161,6 @@
       "phase": 0,
       "id": 204,
       "info": {
-        "srID": "CHA",
         "tid": 29,
         "cid": 0,
         "did": 2
@@ -3416,9 +3226,18 @@
     },
     {
       "type": "gameAttributes",
+      "season": 2019,
+      "phase": 4,
+      "id": 208,
+      "info": {
+        "draftType": "nba2019"
+      }
+    },
+    {
+      "type": "gameAttributes",
       "season": 2003,
       "phase": 0,
-      "id": 208,
+      "id": 209,
       "info": {
         "numGamesPlayoffSeries": [
           7,
