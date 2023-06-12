@@ -113,10 +113,10 @@
       "pop": 3.7,
       "stadiumCapacity": 33000,
       "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1030221404437749851/detroit1979.png",
-      "jersey": "jersey2",
+      "jersey": "jersey4",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
+        "#D50032",
         "#D50032"
       ]
     },
@@ -320,7 +320,7 @@
       "jersey": "jersey4",
       "colors": [
         "#061922",
-        "#061922",
+        "#C8102E",
         "#C8102E"
       ]
     },
