@@ -450,7 +450,8 @@
       7,
       7
     ],
-    "maxRosterSize": 15
+    "maxRosterSize": 15,
+    "aiTradesFactor": 0.60
   },
   "scheduledEvents": [
     {
