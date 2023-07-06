@@ -398,7 +398,7 @@
     "luxuryTax": 1.5,
     "maxContract": 7000,
     "minContract": 300,
-    "minPayroll": 15000,
+    "minPayroll": 16500,
     "salaryCap": 23000,
     "numGames": 82,
     "confs": [
@@ -434,7 +434,7 @@
       }
     ],
     "playIn": false,
-    "minRetireAge": 28,
+    "minRetireAge": 27,
     "draftType": "randomLotteryFirst3",
     "allStarType": "byConf",
     "elamASG": false,
@@ -443,7 +443,7 @@
     "turnoverFactor": 1.02,
     "twoPointAccuracyFactor": 1.009,
     "threePointTendencyFactor": 0.577,
-    "pace": 92.7,
+    "pace": 92.9,
     "numGamesPlayoffSeries": [
       5,
       7,
@@ -451,7 +451,10 @@
       7
     ],
     "maxRosterSize": 15,
-    "aiTradesFactor": 0.60
+    "aiTradesFactor": 0.60,
+    "draftPickAutoContract": true,
+    "draftPickAutoContractPercent": 14.2857143,
+    "draftPickAutoContractRounds": 1
   },
   "scheduledEvents": [
     {
