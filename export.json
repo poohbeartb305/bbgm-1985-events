@@ -10,7 +10,7 @@
       "abbrev": "ATL",
       "pop": 1.9,
       "stadiumCapacity": 16522,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029984471501516860/atlanta1972.png",
+      "imgURL": "https://i.imgur.com/Nnu65fD.png",
       "jersey": "jersey4",
       "colors": [
         "#C9102E",
@@ -27,7 +27,7 @@
       "abbrev": "BOS",
       "pop": 3.3,
       "stadiumCapacity": 14890,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029985094842195978/boston1974.png",
+      "imgURL": "https://i.imgur.com/ZP8XCY9.png",
       "jersey": "jersey2",
       "colors": [
         "#007A33",
@@ -44,7 +44,7 @@
       "abbrev": "CHI",
       "pop": 7.2,
       "stadiumCapacity": 17374,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029987642114330624/chicago1966.png",
+      "imgURL": "https://i.imgur.com/kr6RB4O.png",
       "jersey": "jersey2",
       "colors": [
         "#BA0B2F",
@@ -61,7 +61,7 @@
       "abbrev": "CLE",
       "pop": 1.7,
       "stadiumCapacity": 20900,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029985949511319562/cleveland1983.png",
+      "imgURL": "https://i.imgur.com/dOZ87ri.png",
       "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
@@ -78,7 +78,7 @@
       "abbrev": "DAL",
       "pop": 2.8,
       "stadiumCapacity": 17007,
-      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031295663658512394/dallas1980.png",
+      "imgURL": "https://i.imgur.com/nOtFEhY.png",
       "jersey": "jersey2",
       "colors": [
         "#00853D",
@@ -95,7 +95,7 @@
       "abbrev": "DEN",
       "pop": 1.4,
       "stadiumCapacity": 17251,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1029990294810271824/denver1981.png",
+      "imgURL": "https://i.imgur.com/UY4qGQ4.png",
       "jersey": "jersey2",
       "colors": [
         "#0032A1",
@@ -112,7 +112,7 @@
       "abbrev": "DET",
       "pop": 3.7,
       "stadiumCapacity": 33000,
-      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1030221404437749851/detroit1979.png",
+      "imgURL": "https://i.imgur.com/Cq4Bgzd.png",
       "jersey": "jersey4",
       "colors": [
         "#FFFFFF",
@@ -129,7 +129,7 @@
       "abbrev": "GSW",
       "pop": 2.8,
       "stadiumCapacity": 13295,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030173679809740871/goldenstate1975.png",
+      "imgURL": "https://i.imgur.com/CKYoSRH.png",
       "jersey": "jersey2",
       "colors": [
         "#002F6C",
@@ -146,7 +146,7 @@
       "abbrev": "HOU",
       "pop": 2.6,
       "stadiumCapacity": 16016,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030174252818772058/houston1972.png",
+      "imgURL": "https://i.imgur.com/kBMq9Nm.png",
       "jersey": "jersey2",
       "colors": [
         "#AF0B2D",
@@ -163,7 +163,7 @@
       "abbrev": "IND",
       "pop": 0.877,
       "stadiumCapacity": 16912,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030174954647457882/indiana1977.png",
+      "imgURL": "https://i.imgur.com/URSupVA.png",
       "jersey": "jersey4",
       "colors": [
         "#0032A1",
@@ -180,7 +180,7 @@
       "abbrev": "KCK",
       "pop": 1.1,
       "stadiumCapacity": 16700,
-      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031306813762719836/kansascity1975.png",
+      "imgURL": "https://i.imgur.com/JMDIBbt.png",
       "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
@@ -197,7 +197,7 @@
       "abbrev": "LAC",
       "pop": 10.1,
       "stadiumCapacity": 15371,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030179020677075036/clippers1985.png",
+      "imgURL": "https://i.imgur.com/mBw78e1.png",
       "jersey": "jersey4",
       "colors": [
         "#002F6C",
@@ -214,7 +214,7 @@
       "abbrev": "LAL",
       "pop": 10.1,
       "stadiumCapacity": 17505,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030179369760604176/lakers1976.png",
+      "imgURL": "https://i.imgur.com/3YFr5nT.png",
       "jersey": "jersey2",
       "colors": [
         "#FDB927",
@@ -231,7 +231,7 @@
       "abbrev": "MIL",
       "pop": 1.2,
       "stadiumCapacity": 11052,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030180642698309763/milwaukee1968.png",
+      "imgURL": "https://i.imgur.com/0xhnReL.png",
       "jersey": "jersey4",
       "colors": [
         "#2C5333",
@@ -248,7 +248,7 @@
       "abbrev": "NJN",
       "pop": 0.2,
       "stadiumCapacity": 20149,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030187298375094377/njn1979.png",
+      "imgURL": "https://i.imgur.com/YBCMvVY.png",
       "jersey": "jersey",
       "colors": [
         "#FFFFFF",
@@ -265,7 +265,7 @@
       "abbrev": "NYK",
       "pop": 15.8,
       "stadiumCapacity": 19591,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030188140796841994/nyk1984.png",
+      "imgURL": "https://i.imgur.com/KJnPb3g.png",
       "jersey": "jersey2",
       "colors": [
         "#006BB6",
@@ -282,7 +282,7 @@
       "abbrev": "PHI",
       "pop": 4.6,
       "stadiumCapacity": 17921,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030190377342345377/philadelphia1978.png",
+      "imgURL": "https://i.imgur.com/YHh3N8U.png",
       "jersey": "jersey4",
       "colors": [
         "#D60132",
@@ -299,7 +299,7 @@
       "abbrev": "PHX",
       "pop": 1.6,
       "stadiumCapacity": 14660,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196084020088863/phoenix1968.png",
+      "imgURL": "https://i.imgur.com/n3Kot6d.png",
       "jersey": "jersey4",
       "colors": [
         "#5F249F",
@@ -316,7 +316,7 @@
       "abbrev": "POR",
       "pop": 1.1,
       "stadiumCapacity": 12666,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030191661998940240/portland1970.png",
+      "imgURL": "https://i.imgur.com/MKY7aRs.png",
       "jersey": "jersey4",
       "colors": [
         "#061922",
@@ -333,7 +333,7 @@
       "abbrev": "SAS",
       "pop": 1,
       "stadiumCapacity": 15800,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196123119407115/sanantonio1976.png",
+      "imgURL": "https://i.imgur.com/ri5b7sK.png",
       "jersey": "jersey4",
       "colors": [
         "#161618",
@@ -350,7 +350,7 @@
       "abbrev": "SEA",
       "pop": 1.9,
       "stadiumCapacity": 14230,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196733537431562/seattle1975.png",
+      "imgURL": "https://i.imgur.com/9EqB1qc.png",
       "jersey": "jersey2",
       "colors": [
         "#046A3C",
@@ -367,7 +367,7 @@
       "abbrev": "UTA",
       "pop": 1.1,
       "stadiumCapacity": 12690,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030196975875919922/utah1979.png",
+      "imgURL": "https://i.imgur.com/BqHa1eO.png",
       "jersey": "jersey2",
       "colors": [
         "#582C84",
@@ -384,7 +384,7 @@
       "abbrev": "WAS",
       "pop": 4.4,
       "stadiumCapacity": 20356,
-      "imgURL": "https://cdn.discordapp.com/attachments/1029845354620924004/1030201896763400262/washington1974.png",
+      "imgURL": "https://i.imgur.com/yS3EVTn.png",
       "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
@@ -394,10 +394,10 @@
     }
   ],
   "gameAttributes": {
-    "luxuryPayroll": 25000,
+    "luxuryPayroll": 26000,
     "luxuryTax": 1.5,
     "maxContract": 7000,
-    "minContract": 300,
+    "minContract": 350,
     "minPayroll": 16500,
     "salaryCap": 23000,
     "numGames": 82,
@@ -438,12 +438,13 @@
     "draftType": "randomLotteryFirst3",
     "allStarType": "byConf",
     "elamASG": false,
-    "orbFactor": 1.031125,
-    "stealFactor": 1.09,
-    "turnoverFactor": 1.02,
+    "orbFactor": 1.107625,
+    "stealFactor": 1.21,
+    "turnoverFactor": 1.04,
     "twoPointAccuracyFactor": 1.009,
     "threePointTendencyFactor": 0.577,
-    "pace": 92.9,
+    "blockTendencyFactor": 1.2,
+    "pace": 94.7,
     "numGamesPlayoffSeries": [
       5,
       7,
@@ -451,17 +452,20 @@
       7
     ],
     "maxRosterSize": 15,
-    "aiTradesFactor": 0.60,
+    "aiTradesFactor": 0.55,
     "draftPickAutoContract": true,
-    "draftPickAutoContractPercent": 14.2857143,
-    "draftPickAutoContractRounds": 1
+    "draftPickAutoContractPercent": 17.8571429,
+    "draftPickAutoContractRounds": 1,
+    "rookieContractLengths": [
+      4,
+      3
+    ]
   },
   "scheduledEvents": [
     {
       "type": "expansionDraft",
       "season": 1988,
       "phase": 4,
-      "id": 0,
       "info": {
         "numProtectedPlayers": 8,
         "teams": [
@@ -474,7 +478,7 @@
             "abbrev": "CHA",
             "pop": 0.4,
             "stadiumCapacity": 24042,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588049458999386/charlotte1988.png",
+            "imgURL": "https://i.imgur.com/AeU9kzo.png",
             "jersey": "jersey4",
             "colors": [
               "#00778B",
@@ -491,12 +495,12 @@
             "abbrev": "MIA",
             "pop": 3.6,
             "stadiumCapacity": 15008,
-            "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1034566494715125820/miami1988.png",
+            "imgURL": "https://i.imgur.com/CeHxBRE.png",
             "jersey": "jersey2",
             "colors": [
               "#161618",
               "#FFFFFF",
-              "#BA0C2F"
+              "#C7061C"
             ]
           }
         ]
@@ -506,7 +510,6 @@
       "type": "expansionDraft",
       "season": 1989,
       "phase": 4,
-      "id": 1,
       "info": {
         "numProtectedPlayers": 8,
         "teams": [
@@ -519,7 +522,7 @@
             "abbrev": "ORL",
             "pop": 0.859,
             "stadiumCapacity": 15077,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030590707997622312/orlando1989.png",
+            "imgURL": "https://i.imgur.com/RWmtcAd.png",
             "jersey": "jersey5",
             "colors": [
               "#161618",
@@ -536,7 +539,7 @@
             "abbrev": "MIN",
             "pop": 2,
             "stadiumCapacity": 50000,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588823836573756/minnesota1989.png",
+            "imgURL": "https://i.imgur.com/L5c40i7.png",
             "jersey": "jersey2",
             "colors": [
               "#0032A0",
@@ -551,7 +554,6 @@
       "type": "expansionDraft",
       "season": 1995,
       "phase": 4,
-      "id": 2,
       "info": {
         "numProtectedPlayers": 8,
         "teams": [
@@ -564,7 +566,7 @@
             "abbrev": "TOR",
             "pop": 4.4,
             "stadiumCapacity": 22911,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031345690187681842/toronto1995.png",
+            "imgURL": "https://i.imgur.com/ssEU9uH.png",
             "jersey": "jersey2",
             "colors": [
               "#753BBD",
@@ -581,7 +583,7 @@
             "abbrev": "VAN",
             "pop": 1.9,
             "stadiumCapacity": 19193,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031345724375445598/vancouver1995.png",
+            "imgURL": "https://i.imgur.com/2i4G8Xa.png",
             "jersey": "jersey2",
             "colors": [
               "#00B2A9",
@@ -596,7 +598,6 @@
       "type": "expansionDraft",
       "season": 2004,
       "phase": 4,
-      "id": 3,
       "info": {
         "numProtectedPlayers": 8,
         "teams": [
@@ -609,7 +610,7 @@
             "abbrev": "CHA",
             "pop": 1,
             "stadiumCapacity": 24042,
-            "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032329881373130793/bobcats2004.png",
+            "imgURL": "https://i.imgur.com/zyzPqvg.png",
             "jersey": "jersey2",
             "colors": [
               "#F9423A",
@@ -624,7 +625,6 @@
       "type": "teamInfo",
       "season": 1986,
       "phase": 0,
-      "id": 4,
       "info": {
         "region": "Sacramento",
         "name": "Kings",
@@ -632,7 +632,7 @@
         "pop": 0.97,
         "tid": 10,
         "stadiumCapacity": 10333,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031307812954972190/sacramento1985.png",
+        "imgURL": "https://i.imgur.com/QclAmhP.png",
         "jersey": "jersey2",
         "colors": [
           "#418FDE",
@@ -645,10 +645,9 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 5,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1030588015300591646/washington1987.png",
+        "imgURL": "https://i.imgur.com/GFh45xB.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -661,30 +660,27 @@
       "type": "teamInfo",
       "season": 1990,
       "phase": 0,
-      "id": 6,
       "info": {
         "tid": 15,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031342986786787468/newyork1989.png"
+        "imgURL": "https://i.imgur.com/x8GBxJC.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1990,
       "phase": 0,
-      "id": 7,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343041824428142/sanantonio1989.png"
+        "imgURL": "https://i.imgur.com/nHnoFBr.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 8,
       "info": {
         "tid": 9,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343459954589706/indiana1990.png",
+        "imgURL": "https://i.imgur.com/PgjgOCq.png",
         "jersey": "jersey4",
         "colors": [
           "#041E42",
@@ -697,10 +693,9 @@
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 9,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/1031690017728372836/newjersey1990.png",
+        "imgURL": "https://i.imgur.com/PB4eqzJ.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -713,40 +708,36 @@
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 10,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343634093723648/portland1990.png"
+        "imgURL": "https://i.imgur.com/MCOp2jv.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1993,
       "phase": 0,
-      "id": 11,
       "info": {
         "tid": 15,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343779095003196/newyork1992.png"
+        "imgURL": "https://i.imgur.com/sMvSU0m.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1993,
       "phase": 0,
-      "id": 12,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031343812594901084/phoenix1992.png"
+        "imgURL": "https://i.imgur.com/ZQUZ1nz.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 13,
       "info": {
         "tid": 4,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344674415321119/dallas1993.png",
+        "imgURL": "https://i.imgur.com/HPHGKFl.png",
         "jersey": "jersey2",
         "colors": [
           "#002F46",
@@ -759,10 +750,9 @@
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 14,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344715292999750/denver1993.png",
+        "imgURL": "https://i.imgur.com/76VAhrA.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -775,10 +765,9 @@
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 15,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344746683174972/milwaukee1993.png",
+        "imgURL": "https://i.imgur.com/kzRRWXf.png",
         "jersey": "jersey2",
         "colors": [
           "#702F8A",
@@ -791,10 +780,9 @@
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 16,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344784314486855/cleveland1994.png",
+        "imgURL": "https://i.imgur.com/RfkY7Gp.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -810,7 +798,7 @@
       "id": 17,
       "info": {
         "tid": 10,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344816501555331/sacramento1994.png",
+        "imgURL": "https://i.imgur.com/qa1bd14.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -823,10 +811,9 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 18,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344857932890112/atlanta1995.png",
+        "imgURL": "https://i.imgur.com/j6TknfO.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -839,10 +826,9 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 19,
       "info": {
         "tid": 8,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344905689251871/houston1995.png",
+        "imgURL": "https://i.imgur.com/iQcnJXq.png",
         "jersey": "jersey2",
         "colors": [
           "#041E42",
@@ -855,20 +841,18 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 20,
       "info": {
         "tid": 15,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344942083219618/newyork1995.png"
+        "imgURL": "https://i.imgur.com/GaJTBNq.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 21,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031344967576195102/seattle1995.png",
+        "imgURL": "https://i.imgur.com/rKO5NGE.png",
         "jersey": "jersey2",
         "colors": [
           "#173F35",
@@ -881,20 +865,18 @@
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 22,
       "info": {
         "tid": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346496047693834/boston1996.png"
+        "imgURL": "https://i.imgur.com/yyvz6E7.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 23,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346551999701112/detroit1996.png",
+        "imgURL": "https://i.imgur.com/Z8Ry9Cg.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -907,10 +889,9 @@
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 24,
       "info": {
         "tid": 26,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346581368221766/minnesota1996.png",
+        "imgURL": "https://i.imgur.com/PuiaOhi.png",
         "jersey": "jersey2",
         "colors": [
           "#236192",
@@ -923,10 +904,9 @@
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 25,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346609260351530/utah1996.png",
+        "imgURL": "https://i.imgur.com/sXNQj4d.png",
         "jersey": "jersey4",
         "colors": [
           "#753BBD",
@@ -939,10 +919,9 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 26,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031346704227762216/goldenstate1997.png",
+        "imgURL": "https://i.imgur.com/lnQzBhN.png",
         "jersey": "jersey4",
         "colors": [
           "#041E42",
@@ -955,10 +934,9 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 27,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347408904388608/newjersey1997.png",
+        "imgURL": "https://i.imgur.com/i1f9luS.png",
         "jersey": "jersey4",
         "colors": [
           "#041E42",
@@ -971,10 +949,9 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 28,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347524843347988/philadelphia1997.png",
+        "imgURL": "https://i.imgur.com/dEi8UnS.png",
         "jersey": "jersey2",
         "colors": [
           "#161618",
@@ -987,12 +964,11 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 29,
       "info": {
         "tid": 22,
         "region": "Washington",
         "name": "Wizards",
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347555088486440/washington1997.png",
+        "imgURL": "https://i.imgur.com/LN9a11s.png",
         "jersey": "jersey4",
         "colors": [
           "#236192",
@@ -1005,15 +981,14 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 30,
       "info": {
         "tid": 24,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1031347810337046669/miami1999.png",
+        "imgURL": "https://i.imgur.com/rlSGFic.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
-          "#9D2235",
-          "#9D2235"
+          "#BA0C2F",
+          "#BA0C2F"
         ]
       }
     },
@@ -1024,7 +999,7 @@
       "id": 31,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126520505942086/phoenix2000.png",
+        "imgURL": "https://i.imgur.com/grSx53d.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1037,20 +1012,18 @@
       "type": "teamInfo",
       "season": 2001,
       "phase": 0,
-      "id": 32,
       "info": {
         "tid": 25,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126597635002389/orlando2000.png"
+        "imgURL": "https://i.imgur.com/7Yugdfw.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 33,
       "info": {
         "tid": 4,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126710168170546/dallas2001.png",
+        "imgURL": "https://i.imgur.com/sL5I19b.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1063,7 +1036,6 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 34,
       "info": {
         "tid": 28,
         "region": "Memphis",
@@ -1071,17 +1043,16 @@
         "abbrev": "MEM",
         "pop": 0.9,
         "stadiumCapacity": 19405,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032126818481877074/memphis2001.png"
+        "imgURL": "https://i.imgur.com/4mu7axq.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 35,
       "info": {
         "tid": 12,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032127353003974677/lakers2001.png",
+        "imgURL": "https://i.imgur.com/fWUMp6T.png",
         "jersey": "jersey2",
         "colors": [
           "#FFC72C",
@@ -1094,10 +1065,9 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 36,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032128998639149177/detroit2001.png",
+        "imgURL": "https://i.imgur.com/NI2GuUj.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1110,10 +1080,9 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 37,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032324869376966676/seattle2001.png",
+        "imgURL": "https://i.imgur.com/NGhTqR2.png",
         "jersey": "jersey2",
         "colors": [
           "#173F35",
@@ -1126,7 +1095,6 @@
       "type": "teamInfo",
       "season": 2003,
       "phase": 0,
-      "id": 38,
       "info": {
         "tid": 23,
         "region": "New Orleans",
@@ -1134,7 +1102,7 @@
         "abbrev": "NOH",
         "pop": 1,
         "stadiumCapacity": 17200,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032326345805549620/neworleans2002.png",
+        "imgURL": "https://i.imgur.com/iZGUo3d.png",
         "jersey": "jersey2",
         "colors": [
           "#00778B",
@@ -1147,10 +1115,9 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 39,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032327498639351878/portland2002.png",
+        "imgURL": "https://i.imgur.com/LJqUkJy.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1163,20 +1130,18 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 40,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032327688096059462/sanantonio2002.png"
+        "imgURL": "https://i.imgur.com/ABrcduO.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 41,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328315962404884/cleveland2003.png",
+        "imgURL": "https://i.imgur.com/Rtm0X9s.png",
         "jersey": "jersey2",
         "colors": [
           "#9D2235",
@@ -1189,10 +1154,9 @@
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 42,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328361353154630/denver2003.png",
+        "imgURL": "https://i.imgur.com/t7CmAxZ.png",
         "jersey": "jersey2",
         "colors": [
           "#418FDE",
@@ -1205,10 +1169,9 @@
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 43,
       "info": {
         "tid": 8,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328420052439111/houston2003.png",
+        "imgURL": "https://i.imgur.com/35c9JCw.png",
         "jersey": "jersey2",
         "colors": [
           "#BA0C2F",
@@ -1221,20 +1184,18 @@
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 44,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032328541230071839/portland2003.png"
+        "imgURL": "https://i.imgur.com/z2q91HG.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 45,
       "info": {
         "tid": 28,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032330679020687360/memphis2004.png",
+        "imgURL": "https://i.imgur.com/yOPgAZZ.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1247,10 +1208,9 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 46,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032330741880737812/utah2004.png",
+        "imgURL": "https://i.imgur.com/szFUwHb.png",
         "jersey": "jersey2",
         "colors": [
           "#0A2F50",
@@ -1263,10 +1223,9 @@
       "type": "teamInfo",
       "season": 2006,
       "phase": 0,
-      "id": 47,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032331204260794458/detroit2005.png",
+        "imgURL": "https://i.imgur.com/gwIZLNi.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1279,10 +1238,9 @@
       "type": "teamInfo",
       "season": 2006,
       "phase": 0,
-      "id": 48,
       "info": {
         "tid": 9,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032341353314660382/indiana2005.png",
+        "imgURL": "https://i.imgur.com/YDCPIVn.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1295,10 +1253,9 @@
       "type": "teamInfo",
       "season": 2007,
       "phase": 0,
-      "id": 49,
       "info": {
         "tid": 13,
-        "imgURL": "https://media.discordapp.net/attachments/1030555652298379345/1032341953947369492/milwaukee2006.png",
+        "imgURL": "https://i.imgur.com/CCHqk6i.png",
         "jersey": "jersey2",
         "colors": [
           "#2C5234",
@@ -1311,10 +1268,9 @@
       "type": "teamInfo",
       "season": 2008,
       "phase": 0,
-      "id": 50,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032342936291123302/atlanta2007.png",
+        "imgURL": "https://i.imgur.com/L4QzwGT.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1327,40 +1283,36 @@
       "type": "teamInfo",
       "season": 2008,
       "phase": 0,
-      "id": 51,
       "info": {
         "tid": 29,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343804642086963/charlotte2007.png"
+        "imgURL": "https://i.imgur.com/Edp8e1J.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2008,
       "phase": 0,
-      "id": 52,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343854038401124/washington2007.png"
+        "imgURL": "https://i.imgur.com/ujNpcT4.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 53,
       "info": {
         "tid": 26,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032343963962724424/minnesota2008.png"
+        "imgURL": "https://i.imgur.com/oOcpdsF.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 54,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032344523906486372/neworleans2008.png",
+        "imgURL": "https://i.imgur.com/dY9Cq84.png",
         "jersey": "jersey5",
         "colors": [
           "#0082BA",
@@ -1373,7 +1325,6 @@
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 55,
       "info": {
         "tid": 20,
         "region": "Oklahoma City",
@@ -1381,7 +1332,7 @@
         "abbrev": "OKC",
         "pop": 0.84,
         "stadiumCapacity": 19136,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032344577622941777/oklahomacity2008.png",
+        "imgURL": "https://i.imgur.com/8idzOa4.png",
         "jersey": "jersey2",
         "colors": [
           "#0072CE",
@@ -1394,20 +1345,18 @@
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 56,
       "info": {
         "tid": 27,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032346345366892644/toronto2008.png"
+        "imgURL": "https://i.imgur.com/qUM6QbP.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2010,
       "phase": 0,
-      "id": 57,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032346407056724048/philadelphia2009.png",
+        "imgURL": "https://i.imgur.com/xm0b8zv.png",
         "jersey": "jersey4",
         "colors": [
           "#FFFFFF",
@@ -1420,10 +1369,9 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 58,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032354622507077723/cleveland2010.png",
+        "imgURL": "https://i.imgur.com/3zR6I2d.png",
         "jersey": "jersey2",
         "colors": [
           "#CF263D",
@@ -1436,10 +1384,9 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 59,
       "info": {
         "tid": 11,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032354679541219338/clippers2010.png",
+        "imgURL": "https://i.imgur.com/g1DWUfm.png",
         "jersey": "jersey4",
         "colors": [
           "#FFFFFF",
@@ -1452,10 +1399,9 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 60,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355363724476527/goldenstate2010.png",
+        "imgURL": "https://i.imgur.com/8DNKsgX.png",
         "jersey": "jersey2",
         "colors": [
           "#003DA5",
@@ -1468,20 +1414,18 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 61,
       "info": {
         "tid": 25,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355405529104465/orlando2010.png"
+        "imgURL": "https://i.imgur.com/oP8VLAa.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 62,
       "info": {
         "tid": 25,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032355750544150598/utah2010.png",
+        "imgURL": "https://i.imgur.com/NgZ1675.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1494,10 +1438,9 @@
       "type": "teamInfo",
       "season": 2012,
       "phase": 0,
-      "id": 63,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356091570425946/washington2011.png",
+        "imgURL": "https://i.imgur.com/tw5mkGA.png",
         "jersey": "jersey4",
         "colors": [
           "#0C2340",
@@ -1510,17 +1453,15 @@
       "type": "teamInfo",
       "season": 2012,
       "phase": 0,
-      "id": 64,
       "info": {
         "tid": 15,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356199460503613/newyork2011.png"
+        "imgURL": "https://i.imgur.com/4Z63Vw3.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2013,
       "phase": 0,
-      "id": 65,
       "info": {
         "tid": 14,
         "region": "Brooklyn",
@@ -1528,7 +1469,7 @@
         "abbrev": "BRK",
         "pop": 18.5,
         "stadiumCapacity": 17732,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032356327617466468/brooklyn2012.png",
+        "imgURL": "https://i.imgur.com/lzqhSHv.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -1541,23 +1482,21 @@
       "type": "teamInfo",
       "season": 2013,
       "phase": 0,
-      "id": 66,
       "info": {
         "tid": 29,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357175084978237/bobcats2012.png"
+        "imgURL": "https://i.imgur.com/PvKKMDK.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2014,
       "phase": 0,
-      "id": 67,
       "info": {
         "tid": 23,
         "region": "New Orleans",
         "name": "Pelicans",
         "abbrev": "NOP",
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357295708962949/neworleans2013.png",
+        "imgURL": "https://i.imgur.com/3X4S5PQ.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1570,10 +1509,9 @@
       "type": "teamInfo",
       "season": 2014,
       "phase": 0,
-      "id": 68,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357345101086761/phoenix2013.png",
+        "imgURL": "https://i.imgur.com/6J1CxAj.png",
         "jersey": "jersey2",
         "colors": [
           "#211747",
@@ -1586,13 +1524,12 @@
       "type": "teamInfo",
       "season": 2015,
       "phase": 0,
-      "id": 69,
       "info": {
         "tid": 29,
         "region": "Charlotte",
         "name": "Hornets",
         "abbrev": "CHA",
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032357815970451487/charlotte2014.png",
+        "imgURL": "https://i.imgur.com/buXpbKw.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1605,10 +1542,9 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 70,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358079490175097/atlanta2015.png",
+        "imgURL": "https://i.imgur.com/mvS7v2E.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1621,20 +1557,18 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 71,
       "info": {
         "tid": 11,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358164651315330/clippers2015.png"
+        "imgURL": "https://i.imgur.com/SZBnko4.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 72,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358243198042133/milwaukee2015.png",
+        "imgURL": "https://i.imgur.com/nUR176D.png",
         "jersey": "jersey2",
         "colors": [
           "#2C5234",
@@ -1647,10 +1581,9 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 73,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358299011649656/philadelphia2015.png",
+        "imgURL": "https://i.imgur.com/Klk5K3i.png",
         "jersey": "jersey2",
         "colors": [
           "#003DA5",
@@ -1663,10 +1596,9 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 74,
       "info": {
         "tid": 27,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032358912856440893/toronto2015.png",
+        "imgURL": "https://i.imgur.com/ZzrjgQK.png",
         "jersey": "jersey2",
         "colors": [
           "#BA0C2F",
@@ -1679,10 +1611,9 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 75,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359913051140106/utah2016.png",
+        "imgURL": "https://i.imgur.com/a0NnJUT.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1695,10 +1626,9 @@
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 76,
       "info": {
         "tid": 10,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359225977995295/sacramento2016.png",
+        "imgURL": "https://i.imgur.com/GeJKNQT.png",
         "jersey": "jersey4",
         "colors": [
           "#FFFFFF",
@@ -1711,10 +1641,9 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 77,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359271020638318/cleveland2017.png",
+        "imgURL": "https://i.imgur.com/Hh6CDM2.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1727,20 +1656,18 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 78,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032805176358207539/detroit2017.png"
+        "imgURL": "https://i.imgur.com/ZS5B0e3.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 79,
       "info": {
         "tid": 9,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359414511980604/indiana2017.png",
+        "imgURL": "https://i.imgur.com/6RJIVda.png",
         "jersey": "jersey2",
         "colors": [
           "#041E42",
@@ -1753,10 +1680,9 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 80,
       "info": {
         "tid": 26,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359445591760926/minnesota2017.png",
+        "imgURL": "https://i.imgur.com/wpyKUdq.png",
         "jersey": "jersey3",
         "colors": [
           "#236192",
@@ -1769,10 +1695,9 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 81,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359662080774285/portland2017.png",
+        "imgURL": "https://i.imgur.com/PA7it5p.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -1785,20 +1710,18 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 82,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032359749833990234/sanantonio2017.png"
+        "imgURL": "https://i.imgur.com/fuTBOdy.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2019,
       "phase": 0,
-      "id": 83,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360007607521321/denver2018.png",
+        "imgURL": "https://i.imgur.com/iCC15uM.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1811,10 +1734,9 @@
       "type": "teamInfo",
       "season": 2019,
       "phase": 0,
-      "id": 84,
       "info": {
         "tid": 28,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360204668510278/memphis2018.png",
+        "imgURL": "https://i.imgur.com/qD660hH.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1827,10 +1749,9 @@
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 85,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1030555652298379345/1032360305415704647/goldenstate2019.png",
+        "imgURL": "https://i.imgur.com/JiEjRhr.png",
         "jersey": "jersey2",
         "colors": [
           "#1B459B",
@@ -1843,7 +1764,6 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 86,
       "info": {
         "tid": 3,
         "jersey": "jersey4",
@@ -1858,7 +1778,6 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 87,
       "info": {
         "tid": 7,
         "jersey": "jersey2",
@@ -1873,7 +1792,6 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 88,
       "info": {
         "tid": 11,
         "jersey": "jersey2",
@@ -1888,7 +1806,6 @@
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 89,
       "info": {
         "tid": 10,
         "jersey": "jersey4",
@@ -1903,7 +1820,6 @@
       "type": "teamInfo",
       "season": 1993,
       "phase": 0,
-      "id": 90,
       "info": {
         "tid": 0,
         "jersey": "jersey4",
@@ -1918,7 +1834,6 @@
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 91,
       "info": {
         "tid": 16,
         "jersey": "jersey4",
@@ -1933,7 +1848,6 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 92,
       "info": {
         "tid": 23,
         "jersey": "jersey4",
@@ -1948,7 +1862,6 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 93,
       "info": {
         "tid": 9,
         "jersey": "jersey5",
@@ -1963,7 +1876,6 @@
       "type": "teamInfo",
       "season": 1999,
       "phase": 0,
-      "id": 93,
       "info": {
         "tid": 25,
         "jersey": "jersey2",
@@ -1978,7 +1890,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 95,
       "info": {
         "tid": 27,
         "jersey": "jersey2",
@@ -1993,7 +1904,6 @@
       "type": "teamInfo",
       "season": 2001,
       "phase": 0,
-      "id": 96,
       "info": {
         "tid": 11,
         "jersey": "jersey2",
@@ -2008,7 +1918,6 @@
       "type": "teamInfo",
       "season": 2003,
       "phase": 0,
-      "id": 97,
       "info": {
         "tid": 10,
         "jersey": "jersey2",
@@ -2023,7 +1932,6 @@
       "type": "teamInfo",
       "season": 2007,
       "phase": 0,
-      "id": 98,
       "info": {
         "tid": 27,
         "jersey": "jersey2",
@@ -2038,7 +1946,6 @@
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 99,
       "info": {
         "tid": 25,
         "jersey": "jersey5",
@@ -2053,7 +1960,6 @@
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 100,
       "info": {
         "tid": 10,
         "jersey": "jersey2",
@@ -2068,7 +1974,6 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 101,
       "info": {
         "tid": 29,
         "jersey": "jersey5",
@@ -2083,7 +1988,6 @@
       "type": "teamInfo",
       "season": 2013,
       "phase": 0,
-      "id": 102,
       "info": {
         "tid": 29,
         "jersey": "jersey2",
@@ -2098,7 +2002,6 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 103,
       "info": {
         "tid": 11,
         "jersey": "jersey4",
@@ -2113,7 +2016,6 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 104,
       "info": {
         "tid": 17,
         "jersey": "jersey2",
@@ -2128,7 +2030,6 @@
       "type": "teamInfo",
       "season": 2019,
       "phase": 0,
-      "id": 105,
       "info": {
         "tid": 12,
         "jersey": "jersey4",
@@ -2143,7 +2044,6 @@
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 106,
       "info": {
         "tid": 25,
         "jersey": "jersey5",
@@ -2158,7 +2058,6 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 107,
       "info": {
         "tid": 0,
         "stadiumCapacity": 9191
@@ -2168,7 +2067,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 108,
       "info": {
         "tid": 0,
         "stadiumCapacity": 20233
@@ -2178,7 +2076,6 @@
       "type": "teamInfo",
       "season": 2006,
       "phase": 0,
-      "id": 109,
       "info": {
         "tid": 0,
         "stadiumCapacity": 18729
@@ -2188,7 +2085,6 @@
       "type": "teamInfo",
       "season": 2019,
       "phase": 0,
-      "id": 110,
       "info": {
         "tid": 0,
         "stadiumCapacity": 16600
@@ -2198,7 +2094,6 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 111,
       "info": {
         "tid": 1,
         "stadiumCapacity": 19156
@@ -2208,7 +2103,6 @@
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 112,
       "info": {
         "tid": 2,
         "stadiumCapacity": 21711
@@ -2218,7 +2112,6 @@
       "type": "teamInfo",
       "season": 2010,
       "phase": 0,
-      "id": 113,
       "info": {
         "tid": 2,
         "stadiumCapacity": 20917
@@ -2228,7 +2121,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 114,
       "info": {
         "tid": 3,
         "stadiumCapacity": 20273
@@ -2238,7 +2130,6 @@
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 115,
       "info": {
         "tid": 3,
         "stadiumCapacity": 19432
@@ -2248,7 +2139,6 @@
       "type": "teamInfo",
       "season": 2006,
       "phase": 0,
-      "id": 116,
       "info": {
         "tid": 3,
         "stadiumCapacity": 19077
@@ -2258,7 +2148,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 117,
       "info": {
         "tid": 4,
         "stadiumCapacity": 17502
@@ -2268,7 +2157,6 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 118,
       "info": {
         "tid": 4,
         "stadiumCapacity": 19200
@@ -2278,7 +2166,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 119,
       "info": {
         "tid": 5,
         "stadiumCapacity": 19099
@@ -2288,7 +2175,6 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 120,
       "info": {
         "tid": 5,
         "stadiumCapacity": 19520
@@ -2298,7 +2184,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 121,
       "info": {
         "tid": 6,
         "stadiumCapacity": 22076
@@ -2308,7 +2193,6 @@
       "type": "teamInfo",
       "season": 2018,
       "phase": 0,
-      "id": 122,
       "info": {
         "tid": 6,
         "stadiumCapacity": 19515
@@ -2318,7 +2202,6 @@
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 123,
       "info": {
         "tid": 7,
         "stadiumCapacity": 18543
@@ -2328,7 +2211,6 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 124,
       "info": {
         "tid": 7,
         "stadiumCapacity": 19596
@@ -2338,7 +2220,6 @@
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 125,
       "info": {
         "tid": 7,
         "stadiumCapacity": 18064
@@ -2348,7 +2229,6 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 126,
       "info": {
         "tid": 8,
         "stadiumCapacity": 16611
@@ -2358,7 +2238,6 @@
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 127,
       "info": {
         "tid": 8,
         "stadiumCapacity": 17982
@@ -2368,7 +2247,6 @@
       "type": "teamInfo",
       "season": 2008,
       "phase": 0,
-      "id": 128,
       "info": {
         "tid": 8,
         "stadiumCapacity": 18430
@@ -2378,7 +2256,6 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 129,
       "info": {
         "tid": 8,
         "stadiumCapacity": 18055
@@ -2388,7 +2265,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 130,
       "info": {
         "tid": 9,
         "stadiumCapacity": 16530
@@ -2398,7 +2274,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 131,
       "info": {
         "tid": 9,
         "stadiumCapacity": 18345
@@ -2408,7 +2283,6 @@
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 132,
       "info": {
         "tid": 9,
         "stadiumCapacity": 17923
@@ -2418,7 +2292,6 @@
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 133,
       "info": {
         "tid": 11,
         "stadiumCapacity": 16005
@@ -2428,7 +2301,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 134,
       "info": {
         "tid": 11,
         "stadiumCapacity": 19079
@@ -2438,7 +2310,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 135,
       "info": {
         "tid": 12,
         "stadiumCapacity": 19079
@@ -2448,7 +2319,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 136,
       "info": {
         "tid": 28,
         "stadiumCapacity": 17794
@@ -2458,7 +2328,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 137,
       "info": {
         "tid": 13,
         "stadiumCapacity": 18633
@@ -2468,7 +2337,6 @@
       "type": "teamInfo",
       "season": 2019,
       "phase": 0,
-      "id": 138,
       "info": {
         "tid": 13,
         "stadiumCapacity": 17385
@@ -2478,7 +2346,6 @@
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 139,
       "info": {
         "tid": 24,
         "stadiumCapacity": 15200
@@ -2488,7 +2355,6 @@
       "type": "teamInfo",
       "season": 2001,
       "phase": 0,
-      "id": 140,
       "info": {
         "tid": 24,
         "stadiumCapacity": 19600
@@ -2498,7 +2364,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 141,
       "info": {
         "tid": 14,
         "stadiumCapacity": 20050
@@ -2508,7 +2373,6 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 142,
       "info": {
         "tid": 14,
         "stadiumCapacity": 18711
@@ -2518,7 +2382,6 @@
       "type": "teamInfo",
       "season": 2015,
       "phase": 0,
-      "id": 143,
       "info": {
         "tid": 23,
         "stadiumCapacity": 16867
@@ -2528,7 +2391,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 144,
       "info": {
         "tid": 15,
         "stadiumCapacity": 19763
@@ -2538,7 +2400,6 @@
       "type": "teamInfo",
       "season": 2014,
       "phase": 0,
-      "id": 145,
       "info": {
         "tid": 15,
         "stadiumCapacity": 19812
@@ -2548,7 +2409,6 @@
       "type": "teamInfo",
       "season": 2010,
       "phase": 0,
-      "id": 146,
       "info": {
         "tid": 20,
         "stadiumCapacity": 18203
@@ -2558,7 +2418,6 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 147,
       "info": {
         "tid": 25,
         "stadiumCapacity": 17248
@@ -2568,7 +2427,6 @@
       "type": "teamInfo",
       "season": 2011,
       "phase": 0,
-      "id": 148,
       "info": {
         "tid": 25,
         "stadiumCapacity": 18846
@@ -2578,7 +2436,6 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 149,
       "info": {
         "tid": 16,
         "stadiumCapacity": 18168
@@ -2588,7 +2445,6 @@
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 150,
       "info": {
         "tid": 16,
         "stadiumCapacity": 20338
@@ -2598,7 +2454,6 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 151,
       "info": {
         "tid": 16,
         "stadiumCapacity": 20478
@@ -2608,7 +2463,6 @@
       "type": "teamInfo",
       "season": 1993,
       "phase": 0,
-      "id": 152,
       "info": {
         "tid": 17,
         "stadiumCapacity": 17071
@@ -2618,7 +2472,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 153,
       "info": {
         "tid": 18,
         "stadiumCapacity": 12888
@@ -2628,7 +2481,6 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 154,
       "info": {
         "tid": 18,
         "stadiumCapacity": 21401
@@ -2638,7 +2490,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 155,
       "info": {
         "tid": 18,
         "stadiumCapacity": 19980
@@ -2648,7 +2499,6 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 156,
       "info": {
         "tid": 18,
         "stadiumCapacity": 19393
@@ -2658,7 +2508,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 157,
       "info": {
         "tid": 10,
         "stadiumCapacity": 17317
@@ -2668,7 +2517,6 @@
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 158,
       "info": {
         "tid": 10,
         "stadiumCapacity": 17608
@@ -2678,7 +2526,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 159,
       "info": {
         "tid": 19,
         "stadiumCapacity": 16057
@@ -2688,7 +2535,6 @@
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 160,
       "info": {
         "tid": 19,
         "stadiumCapacity": 20662
@@ -2698,7 +2544,6 @@
       "type": "teamInfo",
       "season": 2003,
       "phase": 0,
-      "id": 161,
       "info": {
         "tid": 19,
         "stadiumCapacity": 19217
@@ -2708,7 +2553,6 @@
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 162,
       "info": {
         "tid": 19,
         "stadiumCapacity": 18797
@@ -2718,7 +2562,6 @@
       "type": "teamInfo",
       "season": 2010,
       "phase": 0,
-      "id": 163,
       "info": {
         "tid": 19,
         "stadiumCapacity": 18581
@@ -2728,7 +2571,6 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 164,
       "info": {
         "tid": 19,
         "stadiumCapacity": 18418
@@ -2738,7 +2580,6 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 165,
       "info": {
         "tid": 27,
         "stadiumCapacity": 19800
@@ -2748,7 +2589,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 166,
       "info": {
         "tid": 21,
         "stadiumCapacity": 18306
@@ -2758,7 +2598,6 @@
       "type": "teamInfo",
       "season": 1990,
       "phase": 0,
-      "id": 167,
       "info": {
         "tid": 22,
         "stadiumCapacity": 18756
@@ -2768,7 +2607,6 @@
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 168,
       "info": {
         "tid": 22,
         "stadiumCapacity": 20356
@@ -2778,7 +2616,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 169,
       "info": {
         "tid": 10,
         "cid": 1,
@@ -2789,7 +2626,6 @@
       "type": "teamInfo",
       "season": 1990,
       "phase": 0,
-      "id": 170,
       "info": {
         "tid": 23,
         "cid": 1,
@@ -2800,7 +2636,6 @@
       "type": "teamInfo",
       "season": 1990,
       "phase": 0,
-      "id": 171,
       "info": {
         "tid": 24,
         "cid": 0,
@@ -2811,7 +2646,6 @@
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 172,
       "info": {
         "tid": 23,
         "cid": 0,
@@ -2822,7 +2656,6 @@
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 173,
       "info": {
         "tid": 25,
         "cid": 1,
@@ -2833,7 +2666,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 174,
       "info": {
         "tid": 25,
         "cid": 0,
@@ -2844,7 +2676,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 175,
       "info": {
         "tid": 0,
         "cid": 0,
@@ -2855,7 +2686,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 176,
       "info": {
         "tid": 1,
         "cid": 0,
@@ -2866,7 +2696,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 177,
       "info": {
         "tid": 23,
         "cid": 1,
@@ -2877,7 +2706,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 178,
       "info": {
         "tid": 2,
         "cid": 0,
@@ -2888,7 +2716,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 179,
       "info": {
         "tid": 3,
         "cid": 0,
@@ -2899,7 +2726,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 180,
       "info": {
         "tid": 4,
         "cid": 1,
@@ -2910,7 +2736,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 181,
       "info": {
         "tid": 5,
         "cid": 1,
@@ -2921,7 +2746,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 182,
       "info": {
         "tid": 6,
         "cid": 0,
@@ -2932,7 +2756,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 183,
       "info": {
         "tid": 7,
         "cid": 1,
@@ -2943,7 +2766,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 184,
       "info": {
         "tid": 8,
         "cid": 1,
@@ -2954,7 +2776,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 185,
       "info": {
         "tid": 9,
         "cid": 0,
@@ -2965,7 +2786,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 186,
       "info": {
         "tid": 11,
         "cid": 1,
@@ -2976,7 +2796,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 187,
       "info": {
         "tid": 12,
         "cid": 1,
@@ -2987,7 +2806,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 188,
       "info": {
         "tid": 24,
         "cid": 0,
@@ -2998,7 +2816,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 189,
       "info": {
         "tid": 13,
         "cid": 0,
@@ -3009,7 +2826,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 190,
       "info": {
         "tid": 26,
         "cid": 1,
@@ -3020,7 +2836,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 191,
       "info": {
         "tid": 14,
         "cid": 0,
@@ -3031,7 +2846,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 192,
       "info": {
         "tid": 15,
         "cid": 0,
@@ -3042,7 +2856,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 193,
       "info": {
         "tid": 25,
         "cid": 0,
@@ -3053,7 +2866,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 194,
       "info": {
         "tid": 16,
         "cid": 0,
@@ -3064,7 +2876,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 195,
       "info": {
         "tid": 17,
         "cid": 1,
@@ -3075,7 +2886,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 196,
       "info": {
         "tid": 18,
         "cid": 1,
@@ -3086,7 +2896,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 197,
       "info": {
         "tid": 10,
         "cid": 1,
@@ -3097,7 +2906,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 198,
       "info": {
         "tid": 19,
         "cid": 1,
@@ -3108,7 +2916,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 199,
       "info": {
         "tid": 20,
         "cid": 1,
@@ -3130,7 +2937,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 201,
       "info": {
         "tid": 21,
         "cid": 1,
@@ -3141,7 +2947,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 202,
       "info": {
         "tid": 22,
         "cid": 0,
@@ -3152,7 +2957,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 203,
       "info": {
         "tid": 28,
         "cid": 1,
@@ -3163,7 +2967,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 204,
       "info": {
         "tid": 29,
         "cid": 0,
@@ -3174,7 +2977,6 @@
       "type": "gameAttributes",
       "season": 2004,
       "phase": 4,
-      "id": 205,
       "info": {
         "divs": [
           {
@@ -3214,7 +3016,6 @@
       "type": "gameAttributes",
       "season": 1990,
       "phase": 4,
-      "id": 206,
       "info": {
         "draftType": "nba1990"
       }
@@ -3223,7 +3024,6 @@
       "type": "gameAttributes",
       "season": 1994,
       "phase": 4,
-      "id": 207,
       "info": {
         "draftType": "nba1994"
       }
@@ -3232,7 +3032,6 @@
       "type": "gameAttributes",
       "season": 2019,
       "phase": 4,
-      "id": 208,
       "info": {
         "draftType": "nba2019"
       }
@@ -3241,7 +3040,6 @@
       "type": "gameAttributes",
       "season": 2003,
       "phase": 0,
-      "id": 209,
       "info": {
         "numGamesPlayoffSeries": [
           7,
@@ -3250,6 +3048,47 @@
           7
         ]
       }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1999,
+      "phase": 0,
+      "info": {
+        "numGames": 50,
+        "numGamesDiv": 25,
+        "numGamesConf": 20
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "numGames": 82,
+        "numGamesDiv": 16,
+        "numGamesConf": 36
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "numGames": 66,
+        "numGamesDiv": 14,
+        "numGamesConf": 34
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "numGames": 82,
+        "numGamesDiv": 16,
+        "numGamesConf": 36
+      }
     }
-  ]
+  ],
+  "version": 58
 }
