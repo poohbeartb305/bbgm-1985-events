@@ -113,6 +113,7 @@ F84 - Memphis Grizzlies rebrand (logo update and new uniform) 2019
 F85 - Golden State Warriors (logo and uniform update) 2020
 F106 - Orlando Magic rebrand (new uniform) 2020
 F215 - Utah Jazz rebrand (new logo and uniform) 2023
+F217 - Cleveland Cavaliers rebrand (logo and uniform update)
 
 ARENA CHANGES
 F107 - Atlanta Hawks move into temporary arena 1998 

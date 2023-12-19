@@ -401,7 +401,7 @@
     "minPayroll": 15000,
     "salaryCap": 23000,
     "numGames": 82,
-    "hofFactor": 1.4,
+    "hofFactor": 1.6,
     "confs": [
       {
         "cid": 0,
@@ -3120,6 +3120,16 @@
       "info": {
         "tid": 22,
         "imgURL": "https://i.imgur.com/oUS9Fbx.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://i.imgur.com/VZ7VKHK.png",
+        "jersey": "jersey"
       }
     }
   ],
