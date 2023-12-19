@@ -97,6 +97,7 @@ F72 - Milwaukee Bucks rebrand (new logo and uniform) 2016
 F73 - Philadelphia 76ers rebrand (new logo and uniform) 2016
 F74 - Toronto Raptors rebrand (new logo and uniform) 2016
 F75 - Utah Jazz rebrand (new logo and uniform) 2016
+F216 - Washington Wizards rebrand (new logo)
 F76 - Sacramento Kings rebrand (new logo and uniform) 2017
 F77 - Cleveland Cavaliers rebrand (new logo and uniform) 2018
 F78 - Detroit Pistons rebrand (new logo) 2018

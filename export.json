@@ -299,7 +299,7 @@
       "abbrev": "PHX",
       "pop": 1.6,
       "stadiumCapacity": 14660,
-      "imgURL": "https://i.imgur.com/n3Kot6d.png",
+      "imgURL": "https://i.imgur.com/FmsCJjI.png",
       "jersey": "jersey4",
       "colors": [
         "#5F249F",
@@ -3111,6 +3111,15 @@
           "#FBE122",
           "#FBE122"
         ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "info": {
+        "tid": 22,
+        "imgURL": "https://i.imgur.com/oUS9Fbx.png"
       }
     }
   ],
