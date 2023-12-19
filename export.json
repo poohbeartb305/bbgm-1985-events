@@ -265,7 +265,7 @@
       "abbrev": "NYK",
       "pop": 15.8,
       "stadiumCapacity": 19591,
-      "imgURL": "https://i.imgur.com/KJnPb3g.png",
+      "imgURL": "https://i.imgur.com/y9ue5HV.png",
       "jersey": "jersey2",
       "colors": [
         "#006BB6",
@@ -395,12 +395,13 @@
   ],
   "gameAttributes": {
     "luxuryPayroll": 26000,
-    "luxuryTax": 1.5,
+    "luxuryTax": 1.75,
     "maxContract": 7000,
     "minContract": 350,
-    "minPayroll": 16500,
+    "minPayroll": 15000,
     "salaryCap": 23000,
     "numGames": 82,
+    "hofFactor": 1.4,
     "confs": [
       {
         "cid": 0,
@@ -442,9 +443,9 @@
     "stealFactor": 1.21,
     "turnoverFactor": 1.04,
     "twoPointAccuracyFactor": 1.009,
-    "threePointTendencyFactor": 0.577,
+    "threePointTendencyFactor": 0.588,
     "blockTendencyFactor": 1.2,
-    "pace": 94.7,
+    "pace": 94.87,
     "numGamesPlayoffSeries": [
       5,
       7,
@@ -458,7 +459,7 @@
     "draftPickAutoContractRounds": 1,
     "rookieContractLengths": [
       4,
-      3
+      2
     ]
   },
   "scheduledEvents": [
@@ -478,7 +479,7 @@
             "abbrev": "CHA",
             "pop": 0.4,
             "stadiumCapacity": 24042,
-            "imgURL": "https://i.imgur.com/AeU9kzo.png",
+            "imgURL": "https://i.imgur.com/kqBeaHK.png",
             "jersey": "jersey4",
             "colors": [
               "#00778B",
@@ -522,7 +523,7 @@
             "abbrev": "ORL",
             "pop": 0.859,
             "stadiumCapacity": 15077,
-            "imgURL": "https://i.imgur.com/RWmtcAd.png",
+            "imgURL": "https://i.imgur.com/GX9tYCY.png",
             "jersey": "jersey5",
             "colors": [
               "#161618",
@@ -539,7 +540,7 @@
             "abbrev": "MIN",
             "pop": 2,
             "stadiumCapacity": 50000,
-            "imgURL": "https://i.imgur.com/L5c40i7.png",
+            "imgURL": "https://i.imgur.com/AMesoOx.png",
             "jersey": "jersey2",
             "colors": [
               "#0032A0",
@@ -566,7 +567,7 @@
             "abbrev": "TOR",
             "pop": 4.4,
             "stadiumCapacity": 22911,
-            "imgURL": "https://i.imgur.com/ssEU9uH.png",
+            "imgURL": "https://i.imgur.com/EmE2w2p.png",
             "jersey": "jersey2",
             "colors": [
               "#753BBD",
@@ -583,7 +584,7 @@
             "abbrev": "VAN",
             "pop": 1.9,
             "stadiumCapacity": 19193,
-            "imgURL": "https://i.imgur.com/2i4G8Xa.png",
+            "imgURL": "https://i.imgur.com/DRfe5EI.png",
             "jersey": "jersey2",
             "colors": [
               "#00B2A9",
@@ -610,7 +611,7 @@
             "abbrev": "CHA",
             "pop": 1,
             "stadiumCapacity": 24042,
-            "imgURL": "https://i.imgur.com/zyzPqvg.png",
+            "imgURL": "https://i.imgur.com/mcWTQMa.png",
             "jersey": "jersey2",
             "colors": [
               "#F9423A",
@@ -632,7 +633,7 @@
         "pop": 0.97,
         "tid": 10,
         "stadiumCapacity": 10333,
-        "imgURL": "https://i.imgur.com/QclAmhP.png",
+        "imgURL": "https://i.imgur.com/gqBEtqE.png",
         "jersey": "jersey2",
         "colors": [
           "#418FDE",
@@ -647,7 +648,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://i.imgur.com/GFh45xB.png",
+        "imgURL": "https://i.imgur.com/rqHNPjo.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -662,7 +663,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://i.imgur.com/x8GBxJC.png"
+        "imgURL": "https://i.imgur.com/vflu9EN.png"
       }
     },
     {
@@ -671,7 +672,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://i.imgur.com/nHnoFBr.png"
+        "imgURL": "https://i.imgur.com/O6kpTka.png"
       }
     },
     {
@@ -680,7 +681,7 @@
       "phase": 0,
       "info": {
         "tid": 9,
-        "imgURL": "https://i.imgur.com/PgjgOCq.png",
+        "imgURL": "https://i.imgur.com/houJirv.png",
         "jersey": "jersey4",
         "colors": [
           "#041E42",
@@ -710,7 +711,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://i.imgur.com/MCOp2jv.png"
+        "imgURL": "https://i.imgur.com/bM5wHbE.png"
       }
     },
     {
@@ -719,7 +720,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://i.imgur.com/sMvSU0m.png"
+        "imgURL": "https://i.imgur.com/AyaTTSO.png"
       }
     },
     {
@@ -737,7 +738,7 @@
       "phase": 0,
       "info": {
         "tid": 4,
-        "imgURL": "https://i.imgur.com/HPHGKFl.png",
+        "imgURL": "https://i.imgur.com/HTfrHeg.png",
         "jersey": "jersey2",
         "colors": [
           "#002F46",
@@ -752,7 +753,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://i.imgur.com/76VAhrA.png",
+        "imgURL": "https://i.imgur.com/yVkSsYe.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -767,7 +768,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://i.imgur.com/kzRRWXf.png",
+        "imgURL": "https://i.imgur.com/vsBVVYJ.png",
         "jersey": "jersey2",
         "colors": [
           "#702F8A",
@@ -782,7 +783,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://i.imgur.com/RfkY7Gp.png",
+        "imgURL": "https://i.imgur.com/S2rzBK8.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -798,7 +799,7 @@
       "id": 17,
       "info": {
         "tid": 10,
-        "imgURL": "https://i.imgur.com/qa1bd14.png",
+        "imgURL": "https://i.imgur.com/ErOj9xI.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -813,7 +814,7 @@
       "phase": 0,
       "info": {
         "tid": 0,
-        "imgURL": "https://i.imgur.com/j6TknfO.png",
+        "imgURL": "https://i.imgur.com/PCXGq4u.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -828,7 +829,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://i.imgur.com/iQcnJXq.png",
+        "imgURL": "https://i.imgur.com/U829ESv.png",
         "jersey": "jersey2",
         "colors": [
           "#041E42",
@@ -843,7 +844,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://i.imgur.com/GaJTBNq.png"
+        "imgURL": "https://i.imgur.com/CiK0AUG.png"
       }
     },
     {
@@ -852,7 +853,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://i.imgur.com/rKO5NGE.png",
+        "imgURL": "https://i.imgur.com/6VPE6rx.png",
         "jersey": "jersey2",
         "colors": [
           "#173F35",
@@ -867,7 +868,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://i.imgur.com/yyvz6E7.png"
+        "imgURL": "https://i.imgur.com/hhKOVNv.png"
       }
     },
     {
@@ -876,7 +877,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://i.imgur.com/Z8Ry9Cg.png",
+        "imgURL": "https://i.imgur.com/Fb2Do0x.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -891,7 +892,7 @@
       "phase": 0,
       "info": {
         "tid": 26,
-        "imgURL": "https://i.imgur.com/PuiaOhi.png",
+        "imgURL": "https://i.imgur.com/KeYjmrt.png",
         "jersey": "jersey2",
         "colors": [
           "#236192",
@@ -906,7 +907,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://i.imgur.com/sXNQj4d.png",
+        "imgURL": "https://i.imgur.com/O7Zruvn.png",
         "jersey": "jersey4",
         "colors": [
           "#753BBD",
@@ -921,7 +922,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://i.imgur.com/lnQzBhN.png",
+        "imgURL": "https://i.imgur.com/5DslL6F.png",
         "jersey": "jersey4",
         "colors": [
           "#041E42",
@@ -936,7 +937,7 @@
       "phase": 0,
       "info": {
         "tid": 14,
-        "imgURL": "https://i.imgur.com/i1f9luS.png",
+        "imgURL": "https://i.imgur.com/l0NdMzb.png",
         "jersey": "jersey4",
         "colors": [
           "#041E42",
@@ -951,7 +952,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://i.imgur.com/dEi8UnS.png",
+        "imgURL": "https://i.imgur.com/5oc3DwA.png",
         "jersey": "jersey2",
         "colors": [
           "#161618",
@@ -968,7 +969,7 @@
         "tid": 22,
         "region": "Washington",
         "name": "Wizards",
-        "imgURL": "https://i.imgur.com/LN9a11s.png",
+        "imgURL": "https://i.imgur.com/1UFMuIq.png",
         "jersey": "jersey4",
         "colors": [
           "#236192",
@@ -983,7 +984,7 @@
       "phase": 0,
       "info": {
         "tid": 24,
-        "imgURL": "https://i.imgur.com/rlSGFic.png",
+        "imgURL": "https://i.imgur.com/CfsjoY3.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -996,10 +997,9 @@
       "type": "teamInfo",
       "season": 2001,
       "phase": 0,
-      "id": 31,
       "info": {
         "tid": 17,
-        "imgURL": "https://i.imgur.com/grSx53d.png",
+        "imgURL": "https://i.imgur.com/8leLhM7.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1014,7 +1014,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://i.imgur.com/7Yugdfw.png"
+        "imgURL": "https://i.imgur.com/8LPgJjG.png"
       }
     },
     {
@@ -1023,7 +1023,7 @@
       "phase": 0,
       "info": {
         "tid": 4,
-        "imgURL": "https://i.imgur.com/sL5I19b.png",
+        "imgURL": "https://i.imgur.com/aD5pcqv.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1043,7 +1043,7 @@
         "abbrev": "MEM",
         "pop": 0.9,
         "stadiumCapacity": 19405,
-        "imgURL": "https://i.imgur.com/4mu7axq.png"
+        "imgURL": "https://i.imgur.com/hq4fBND.png"
       }
     },
     {
@@ -1052,7 +1052,7 @@
       "phase": 0,
       "info": {
         "tid": 12,
-        "imgURL": "https://i.imgur.com/fWUMp6T.png",
+        "imgURL": "https://i.imgur.com/9Y2XQdY.png",
         "jersey": "jersey2",
         "colors": [
           "#FFC72C",
@@ -1067,7 +1067,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://i.imgur.com/NI2GuUj.png",
+        "imgURL": "https://i.imgur.com/6gTOy1Q.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1082,7 +1082,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://i.imgur.com/NGhTqR2.png",
+        "imgURL": "https://i.imgur.com/Jm1224L.png",
         "jersey": "jersey2",
         "colors": [
           "#173F35",
@@ -1102,7 +1102,7 @@
         "abbrev": "NOH",
         "pop": 1,
         "stadiumCapacity": 17200,
-        "imgURL": "https://i.imgur.com/iZGUo3d.png",
+        "imgURL": "https://i.imgur.com/i9IDEmO.png",
         "jersey": "jersey2",
         "colors": [
           "#00778B",
@@ -1117,7 +1117,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://i.imgur.com/LJqUkJy.png",
+        "imgURL": "https://i.imgur.com/jpiLiiq.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1132,7 +1132,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://i.imgur.com/ABrcduO.png"
+        "imgURL": "https://i.imgur.com/N4XTPFl.png"
       }
     },
     {
@@ -1141,7 +1141,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://i.imgur.com/Rtm0X9s.png",
+        "imgURL": "https://i.imgur.com/jRwn4H9.png",
         "jersey": "jersey2",
         "colors": [
           "#9D2235",
@@ -1156,7 +1156,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://i.imgur.com/t7CmAxZ.png",
+        "imgURL": "https://i.imgur.com/CpwU5pq.png",
         "jersey": "jersey2",
         "colors": [
           "#418FDE",
@@ -1171,7 +1171,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://i.imgur.com/35c9JCw.png",
+        "imgURL": "https://i.imgur.com/5iOdPHm.png",
         "jersey": "jersey2",
         "colors": [
           "#BA0C2F",
@@ -1186,7 +1186,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://i.imgur.com/z2q91HG.png"
+        "imgURL": "https://i.imgur.com/fIuw5zL.png"
       }
     },
     {
@@ -1195,7 +1195,7 @@
       "phase": 0,
       "info": {
         "tid": 28,
-        "imgURL": "https://i.imgur.com/yOPgAZZ.png",
+        "imgURL": "https://i.imgur.com/oAw8tfd.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1210,7 +1210,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://i.imgur.com/szFUwHb.png",
+        "imgURL": "https://i.imgur.com/PXufWII.png",
         "jersey": "jersey2",
         "colors": [
           "#0A2F50",
@@ -1225,7 +1225,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://i.imgur.com/gwIZLNi.png",
+        "imgURL": "https://i.imgur.com/MHsdhn9.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1240,7 +1240,7 @@
       "phase": 0,
       "info": {
         "tid": 9,
-        "imgURL": "https://i.imgur.com/YDCPIVn.png",
+        "imgURL": "https://i.imgur.com/jbFGJm0.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1255,7 +1255,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://i.imgur.com/CCHqk6i.png",
+        "imgURL": "https://i.imgur.com/Psh80WT.png",
         "jersey": "jersey2",
         "colors": [
           "#2C5234",
@@ -1285,7 +1285,7 @@
       "phase": 0,
       "info": {
         "tid": 29,
-        "imgURL": "https://i.imgur.com/Edp8e1J.png"
+        "imgURL": "https://i.imgur.com/PjPnLVs.png"
       }
     },
     {
@@ -1294,7 +1294,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://i.imgur.com/ujNpcT4.png"
+        "imgURL": "https://i.imgur.com/aqlib9x.png"
       }
     },
     {
@@ -1303,7 +1303,7 @@
       "phase": 0,
       "info": {
         "tid": 26,
-        "imgURL": "https://i.imgur.com/oOcpdsF.png"
+        "imgURL": "https://i.imgur.com/RixMJ5I.png"
       }
     },
     {
@@ -1312,7 +1312,7 @@
       "phase": 0,
       "info": {
         "tid": 23,
-        "imgURL": "https://i.imgur.com/dY9Cq84.png",
+        "imgURL": "https://i.imgur.com/TgaEmvn.png",
         "jersey": "jersey5",
         "colors": [
           "#0082BA",
@@ -1332,7 +1332,7 @@
         "abbrev": "OKC",
         "pop": 0.84,
         "stadiumCapacity": 19136,
-        "imgURL": "https://i.imgur.com/8idzOa4.png",
+        "imgURL": "https://i.imgur.com/YUiK4Fw.png",
         "jersey": "jersey2",
         "colors": [
           "#0072CE",
@@ -1347,7 +1347,7 @@
       "phase": 0,
       "info": {
         "tid": 27,
-        "imgURL": "https://i.imgur.com/qUM6QbP.png"
+        "imgURL": "https://i.imgur.com/3zm2iH7.png"
       }
     },
     {
@@ -1356,7 +1356,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://i.imgur.com/xm0b8zv.png",
+        "imgURL": "https://i.imgur.com/9J453z4.png",
         "jersey": "jersey4",
         "colors": [
           "#FFFFFF",
@@ -1371,7 +1371,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://i.imgur.com/3zR6I2d.png",
+        "imgURL": "https://i.imgur.com/NSCocqJ.png",
         "jersey": "jersey2",
         "colors": [
           "#CF263D",
@@ -1386,7 +1386,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://i.imgur.com/g1DWUfm.png",
+        "imgURL": "https://i.imgur.com/pobgYrD.png",
         "jersey": "jersey4",
         "colors": [
           "#FFFFFF",
@@ -1401,7 +1401,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://i.imgur.com/8DNKsgX.png",
+        "imgURL": "https://i.imgur.com/PQPRMPV.png",
         "jersey": "jersey2",
         "colors": [
           "#003DA5",
@@ -1416,7 +1416,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://i.imgur.com/oP8VLAa.png"
+        "imgURL": "https://i.imgur.com/ujNMx8i.png"
       }
     },
     {
@@ -1424,8 +1424,8 @@
       "season": 2011,
       "phase": 0,
       "info": {
-        "tid": 25,
-        "imgURL": "https://i.imgur.com/NgZ1675.png",
+        "tid": 21,
+        "imgURL": "https://i.imgur.com/aKPXVGw.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1440,7 +1440,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://i.imgur.com/tw5mkGA.png",
+        "imgURL": "https://i.imgur.com/LUbZXPr.png",
         "jersey": "jersey4",
         "colors": [
           "#0C2340",
@@ -1455,7 +1455,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://i.imgur.com/4Z63Vw3.png"
+        "imgURL": "https://i.imgur.com/hVWRcG3.png"
       }
     },
     {
@@ -1469,7 +1469,7 @@
         "abbrev": "BRK",
         "pop": 18.5,
         "stadiumCapacity": 17732,
-        "imgURL": "https://i.imgur.com/lzqhSHv.png",
+        "imgURL": "https://i.imgur.com/5mfCFQ5.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -1484,7 +1484,7 @@
       "phase": 0,
       "info": {
         "tid": 29,
-        "imgURL": "https://i.imgur.com/PvKKMDK.png"
+        "imgURL": "https://i.imgur.com/k48EL9X.png"
       }
     },
     {
@@ -1496,7 +1496,7 @@
         "region": "New Orleans",
         "name": "Pelicans",
         "abbrev": "NOP",
-        "imgURL": "https://i.imgur.com/3X4S5PQ.png",
+        "imgURL": "https://i.imgur.com/1Caf53D.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1511,7 +1511,7 @@
       "phase": 0,
       "info": {
         "tid": 17,
-        "imgURL": "https://i.imgur.com/6J1CxAj.png",
+        "imgURL": "https://i.imgur.com/Rl6WxDg.png",
         "jersey": "jersey2",
         "colors": [
           "#211747",
@@ -1529,7 +1529,7 @@
         "region": "Charlotte",
         "name": "Hornets",
         "abbrev": "CHA",
-        "imgURL": "https://i.imgur.com/buXpbKw.png",
+        "imgURL": "https://i.imgur.com/i1Sds5b.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1544,7 +1544,7 @@
       "phase": 0,
       "info": {
         "tid": 0,
-        "imgURL": "https://i.imgur.com/mvS7v2E.png",
+        "imgURL": "https://i.imgur.com/L9bJuSo.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1559,7 +1559,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://i.imgur.com/SZBnko4.png"
+        "imgURL": "https://i.imgur.com/urCd5if.png"
       }
     },
     {
@@ -1568,7 +1568,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://i.imgur.com/nUR176D.png",
+        "imgURL": "https://i.imgur.com/qzTukF3.png",
         "jersey": "jersey2",
         "colors": [
           "#2C5234",
@@ -1583,7 +1583,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://i.imgur.com/Klk5K3i.png",
+        "imgURL": "https://i.imgur.com/ChnvQlG.png",
         "jersey": "jersey2",
         "colors": [
           "#003DA5",
@@ -1598,7 +1598,7 @@
       "phase": 0,
       "info": {
         "tid": 27,
-        "imgURL": "https://i.imgur.com/ZzrjgQK.png",
+        "imgURL": "https://i.imgur.com/J95FoXN.png",
         "jersey": "jersey2",
         "colors": [
           "#BA0C2F",
@@ -1613,7 +1613,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://i.imgur.com/a0NnJUT.png",
+        "imgURL": "https://i.imgur.com/UhyDuXk.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1628,7 +1628,7 @@
       "phase": 0,
       "info": {
         "tid": 10,
-        "imgURL": "https://i.imgur.com/GeJKNQT.png",
+        "imgURL": "https://i.imgur.com/1xYUDwe.png",
         "jersey": "jersey4",
         "colors": [
           "#FFFFFF",
@@ -1643,7 +1643,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://i.imgur.com/Hh6CDM2.png",
+        "imgURL": "https://i.imgur.com/TrpmjsD.png",
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
@@ -1658,7 +1658,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://i.imgur.com/ZS5B0e3.png"
+        "imgURL": "https://i.imgur.com/DKDrnvo.png"
       }
     },
     {
@@ -1667,7 +1667,7 @@
       "phase": 0,
       "info": {
         "tid": 9,
-        "imgURL": "https://i.imgur.com/6RJIVda.png",
+        "imgURL": "https://i.imgur.com/usdammm.png",
         "jersey": "jersey2",
         "colors": [
           "#041E42",
@@ -1682,7 +1682,7 @@
       "phase": 0,
       "info": {
         "tid": 26,
-        "imgURL": "https://i.imgur.com/wpyKUdq.png",
+        "imgURL": "https://i.imgur.com/vToO0wW.png",
         "jersey": "jersey3",
         "colors": [
           "#236192",
@@ -1697,7 +1697,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://i.imgur.com/PA7it5p.png",
+        "imgURL": "https://i.imgur.com/36ZOkB1.png",
         "jersey": "jersey4",
         "colors": [
           "#161618",
@@ -1712,7 +1712,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://i.imgur.com/fuTBOdy.png"
+        "imgURL": "https://i.imgur.com/2vevHTj.png"
       }
     },
     {
@@ -1721,7 +1721,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://i.imgur.com/iCC15uM.png",
+        "imgURL": "https://i.imgur.com/Pg5gvC6.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1736,7 +1736,7 @@
       "phase": 0,
       "info": {
         "tid": 28,
-        "imgURL": "https://i.imgur.com/qD660hH.png",
+        "imgURL": "https://i.imgur.com/qfI91GM.png",
         "jersey": "jersey2",
         "colors": [
           "#0C2340",
@@ -1751,7 +1751,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://i.imgur.com/JiEjRhr.png",
+        "imgURL": "https://i.imgur.com/bBFXKEp.png",
         "jersey": "jersey2",
         "colors": [
           "#1B459B",
@@ -3087,6 +3087,30 @@
         "numGames": 82,
         "numGamesDiv": 16,
         "numGamesConf": 36
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://i.imgur.com/VuVtVhM.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://i.imgur.com/3wXiCFh.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#FFFFFF",
+          "#FBE122",
+          "#FBE122"
+        ]
       }
     }
   ],

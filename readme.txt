@@ -68,7 +68,8 @@ F49 - Milwaukee Bucks rebrand (logo update and new uniform) 2007
 F98 - Toronto Raptors rebrand (new uniform) 2007
 F50 - Atlanta Hawks rebrand (logo update and new uniform) 2008
 F51 - Charlotte Bobcats rebrand (logo update) 2008
-F52 - Denver Nuggets rebrand (logo update) 2009
+F52 - Washington Wizards rebrand (logo update) 2008
+F214 - Denver Nuggets rebrand (logo update) 2009
 F53 - Minnesota Timberwolves rebrand (logo update) 2009
 F54 - New Orleans Hornets rebrand (logo update and new uniform) 2009
 F55 - Seattle Supersonics relocate to Oklahoma City 2009
@@ -110,6 +111,7 @@ F105 - Los Angeles Lakers rebrand (new uniform) 2019
 F84 - Memphis Grizzlies rebrand (logo update and new uniform) 2019
 F85 - Golden State Warriors (logo and uniform update) 2020
 F106 - Orlando Magic rebrand (new uniform) 2020
+F215 - Utah Jazz rebrand (new logo and uniform) 2023
 
 ARENA CHANGES
 F107 - Atlanta Hawks move into temporary arena 1998 
