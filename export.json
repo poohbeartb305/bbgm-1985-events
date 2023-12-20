@@ -796,7 +796,6 @@
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 17,
       "info": {
         "tid": 10,
         "imgURL": "https://i.imgur.com/ErOj9xI.png",
@@ -2926,7 +2925,6 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 200,
       "info": {
         "tid": 27,
         "cid": 0,
