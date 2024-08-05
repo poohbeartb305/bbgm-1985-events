@@ -445,7 +445,7 @@
     "twoPointAccuracyFactor": 1.009,
     "threePointTendencyFactor": 0.588,
     "blockTendencyFactor": 1.2,
-    "pace": 95.12,
+    "pace": 95.32,
     "numGamesPlayoffSeries": [
       5,
       7,
@@ -453,7 +453,7 @@
       7
     ],
     "maxRosterSize": 15,
-    "aiTradesFactor": 0.55,
+    "aiTradesFactor": 0.58,
     "draftPickAutoContract": true,
     "draftPickAutoContractPercent": 17.8571429,
     "draftPickAutoContractRounds": 1,
@@ -3131,5 +3131,5 @@
       }
     }
   ],
-  "version": 59
+  "version": 62
 }
