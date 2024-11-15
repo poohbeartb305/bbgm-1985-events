@@ -439,13 +439,14 @@
     "draftType": "randomLotteryFirst3",
     "allStarType": "byConf",
     "elamASG": false,
-    "orbFactor": 1.107625,
-    "stealFactor": 1.21,
-    "turnoverFactor": 1.04,
+    "orbFactor": 1.086625,
+    "blockTendencyFactor": 1.2,
+    "stealFactor": 1.24,
+    "turnoverFactor": 1.07,
     "twoPointAccuracyFactor": 1.009,
     "threePointTendencyFactor": 0.588,
-    "blockTendencyFactor": 1.2,
-    "pace": 95.32,
+    "threePointAccuracyFactor": 1.009,
+    "pace": 94.28,
     "numGamesPlayoffSeries": [
       5,
       7,
@@ -453,7 +454,7 @@
       7
     ],
     "maxRosterSize": 15,
-    "aiTradesFactor": 0.58,
+    "aiTradesFactor": 0.62,
     "draftPickAutoContract": true,
     "draftPickAutoContractPercent": 17.8571429,
     "draftPickAutoContractRounds": 1,
@@ -3128,6 +3129,57 @@
         "tid": 3,
         "imgURL": "https://i.imgur.com/VZ7VKHK.png",
         "jersey": "jersey"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "tid": 15,
+        "imgURL": "https://imgur.com/tnGCG6H.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2024,
+      "phase": 0,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://imgur.com/1RlQ8WG.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2024,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://imgur.com/YqZ5awq"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2025,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://imgur.com/sI9xMqo.png",
+        "jersey": "jersey2",
+        "colors": [
+          "#0C2340",
+          "#FFFFFF",
+          "#D50032"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2025,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "imgURL": "https://imgur.com/pVQX6E7.png"
       }
     }
   ],
