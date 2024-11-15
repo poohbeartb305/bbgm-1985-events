@@ -454,7 +454,7 @@
       7
     ],
     "maxRosterSize": 15,
-    "aiTradesFactor": 0.62,
+    "aiTradesFactor": 1,
     "draftPickAutoContract": true,
     "draftPickAutoContractPercent": 17.8571429,
     "draftPickAutoContractRounds": 1,
@@ -3166,6 +3166,7 @@
         "tid": 11,
         "imgURL": "https://imgur.com/sI9xMqo.png",
         "jersey": "jersey2",
+        "stadiumCapacity": 18000,
         "colors": [
           "#0C2340",
           "#FFFFFF",

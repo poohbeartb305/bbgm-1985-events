@@ -118,7 +118,7 @@ F218 - New York Knicks rebrand (logo update) 2023
 F219 - Los Angeles Lakers rebrand (logo update) 2024
 F220 - New Orleans Pelicans rebrand (logo update) 2024
 F221 - Los Angeles Clippers rebrand (new logo and uniform) 2025
-F222 - Brooklyn Nets rebrand (logo update)
+F222 - Brooklyn Nets rebrand (logo update) 2025
 
 ARENA CHANGES
 F107 - Atlanta Hawks move into temporary arena 1998 
