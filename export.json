@@ -435,7 +435,7 @@
       }
     ],
     "playIn": false,
-    "minRetireAge": 27,
+    "minRetireAge": 26,
     "draftType": "randomLotteryFirst3",
     "allStarType": "byConf",
     "elamASG": false,
@@ -446,15 +446,15 @@
     "twoPointAccuracyFactor": 1.009,
     "threePointTendencyFactor": 0.588,
     "threePointAccuracyFactor": 1.009,
-    "pace": 94.28,
+    "pace": 94.88,
     "numGamesPlayoffSeries": [
       5,
       7,
       7,
       7
     ],
-    "maxRosterSize": 15,
-    "aiTradesFactor": 1,
+    "maxRosterSize": 14,
+    "aiTradesFactor": 0.90,
     "draftPickAutoContract": true,
     "draftPickAutoContractPercent": 17.8571429,
     "draftPickAutoContractRounds": 1,
