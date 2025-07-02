@@ -3182,6 +3182,21 @@
         "tid": 14,
         "imgURL": "https://imgur.com/pVQX6E7.png"
       }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2026,
+      "phase": 0,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://i.imgur.com/eIdacSm.png",
+        "jersey": "jersey5",
+        "colors": [
+          "#161618",
+          "#1950AE",
+          "#FFFFFF"
+        ]
+      }
     }
   ],
   "version": 67
