@@ -78,7 +78,7 @@
       "abbrev": "DAL",
       "pop": 2.8,
       "stadiumCapacity": 17007,
-      "imgURL": "https://i.imgur.com/nOtFEhY.png",
+      "imgURL": "https://i.imgur.com/GNBKdMn.png",
       "jersey": "jersey2",
       "colors": [
         "#00853D",
@@ -499,7 +499,7 @@
             "abbrev": "MIA",
             "pop": 3.6,
             "stadiumCapacity": 15008,
-            "imgURL": "https://i.imgur.com/CeHxBRE.png",
+            "imgURL": "https://i.imgur.com/bLt4HVS.png",
             "jersey": "jersey2",
             "colors": [
               "#161618",
@@ -741,7 +741,6 @@
       "phase": 0,
       "info": {
         "tid": 4,
-        "imgURL": "https://i.imgur.com/HTfrHeg.png",
         "jersey": "jersey2",
         "colors": [
           "#002F46",
@@ -990,8 +989,8 @@
         "jersey": "jersey2",
         "colors": [
           "#FFFFFF",
-          "#BA0C2F",
-          "#BA0C2F"
+          "#98002E",
+          "#98002E"
         ]
       }
     },
