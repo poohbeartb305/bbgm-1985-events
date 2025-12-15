@@ -401,7 +401,7 @@
     "minPayroll": 15000,
     "salaryCap": 23000,
     "numGames": 82,
-    "hofFactor": 1.6,
+    "hofFactor": 1.25,
     "confs": [
       {
         "cid": 0,
@@ -444,10 +444,10 @@
     "stealFactor": 1.24,
     "assistFactor": 1.08,
     "turnoverFactor": 1.07,
-    "twoPointAccuracyFactor": 1.011,
+    "twoPointAccuracyFactor": 1.013,
     "threePointTendencyFactor": 0.588,
     "threePointAccuracyFactor": 1.009,
-    "pace": 95.19,
+    "pace": 95.23,
     "numGamesPlayoffSeries": [
       5,
       7,
@@ -463,7 +463,8 @@
       4,
       2
     ],
-    "difficulty": 0.50
+    "difficulty": 0.50,
+    "numWatchColors": 2
   },
   "scheduledEvents": [
     {
